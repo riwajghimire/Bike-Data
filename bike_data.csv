@@ -1,0 +1,1757 @@
+ID	Bike_Name	bike_model_year	Bike_Currency	Bike_Price	bike_power_cc	bike_power_watt	bike_type
+1	 Komaki SE	2014	Rs. 	13000.0		3,000 	Scooter
+2	 TVS Apache RTR 160 2V	2020	Rs. 	13500.0	160		Sports
+3	 Hero Hunk 150R	2021	Rs. 	14000.0	150		Commuter
+4	 Honda CB Unicorn 160	2019	Rs. 	15000.0	163		Commuter
+5	 Yamaha Fazer 25	2019	Rs. 	19000.0	249		Sports
+6	 TVS Star City	2011	Rs. 	20000.0	109		Commuter
+7	 Yamaha YBR	2011	Rs. 	25000.0	125		Commuter
+8	 Bajaj Avenger 220 Cruise	1980	Rs. 	30000.0	220		Cruiser
+9	 Hero Splendor	2009	Rs. 	35000.0	98		Commuter
+10	 TVS Apache RTR 180 2V	2017	Rs. 	35000.0	178		Sports
+11	 Hero Splendor	2005	Rs. 	38000.0	98		Commuter
+12	 Hero Splendor	2000	Rs. 	40000.0	98		Commuter
+13	 Yamaha Gladiator	2010	Rs. 	40000.0	125		Commuter
+14	 Hero Splendor Plus	2004	Rs. 	40000.0	98		Commuter
+15	 Honda CB Unicorn 150	2010	Rs. 	45000.0	150		Commuter
+16	 Yamaha Saluto	2018	Rs. 	45000.0	125		Commuter
+17	 Suzuki GS150R	2010	Rs. 	45000.0	149		Commuter
+18	 Bajaj Discover 125 M	2014	Rs. 	45000.0	125		Commuter
+19	 Honda Dio	2012	Rs. 	45000.0	110		Scooter
+20	 Bajaj Discover 125	2006	Rs. 	45000.0	125		Commuter
+21	 AIMA Moped	2021	Rs. 	45000.0		350	Scooter
+22	 Bajaj Discover 125	2013	Rs. 	46000.0	125		Commuter
+23	 Hero Pleasure	2012	Rs. 	47500.0	102		Scooter
+24	 Bajaj Discover 135	2009	Rs. 	48000.0	135		Commuter
+25	 Honda CB Shine	2009	Rs. 	50000.0	124		Commuter
+26	 Hero Splendor	2009	Rs. 	50000.0	98		Commuter
+27	 Suzuki Gixxer 150	2016	Rs. 	50000.0	155		Sports
+28	 Bajaj Avenger 220 Cruise	2016	Rs. 	50000.0	220		Cruiser
+29	 Bajaj Discover 125	2011	Rs. 	50000.0	125		Commuter
+30	 Yamaha FZ V1	2012	Rs. 	50000.0	149		Sports Naked
+31	 Yamaha YBR	2010	Rs. 	50000.0	125		Commuter
+32	 Bajaj Pulsar NS 200	2012	Rs. 	50000.0	200		Sports Naked
+33	 Bajaj Discover 125 ST	2013	Rs. 	50000.0	125		Commuter
+34	 Bajaj Discover 125 ST	2022	Rs. 	50000.0	125		Commuter
+35	 Bajaj DISCOVER 150	2012	Rs. 	50000.0	145		Commuter
+36	 Hero Splendor	2066	Rs. 	50000.0	98		Commuter
+37	 Honda CB Unicorn 160	2014	Rs. 	50000.0	163		Commuter
+38	 Bajaj Discover 135	2014	Rs. 	50000.0	135		Commuter
+39	 Cosmic Cosmic	2004	Rs. 	50000.0	150		Commuter
+40	 Hero CBZ	2010	Rs. 	50000.0	150		Commuter
+41	 Yamaha FZS V2	2014	Rs. 	50000.0	149		Sports Naked
+42	 Yamaha FZS V1	2012	Rs. 	50000.0			
+43	 Honda CD 110 Dream	1997	Rs. 	51000.0	110		Commuter
+44	 Hero CBZ	2011	Rs. 	53500.0	150		Commuter
+45	 Hero Pleasure	2012	Rs. 	54000.0	102		Scooter
+46	 Honda CB Unicorn 150	2014	Rs. 	55000.0	150		Commuter
+47	 Bajaj DISCOVER 150	2015	Rs. 	55000.0	145		Commuter
+48	 Bajaj Discover 125	2006	Rs. 	55000.0	125		Commuter
+49	 Honda CB Unicorn 150	2014	Rs. 	55000.0	150		Commuter
+50	 Honda Dio	2012	Rs. 	55000.0	110		Scooter
+51	 Yamaha R15 V1	2014	Rs. 	55000.0	149		Sports
+52	 Bajaj Pulsar 220F	2010	Rs. 	55000.0	220		Sports
+53	 Hero Splendor	2004	Rs. 	55555.0	98		Commuter
+54	 Bajaj Discover 125	2013	Rs. 	58000.0	125		Commuter
+55	 Bajaj Discover 125	2011	Rs. 	59999.0	125		Commuter
+56	 Hero CBZ	2011	Rs. 	60000.0	150		Commuter
+57	 Hero Pleasure	2004	Rs. 	60000.0	102		Scooter
+58	 Honda CB Twister	2011	Rs. 	60000.0	109		Commuter
+59	 Bajaj Pulsar AS 150	2007	Rs. 	60000.0	150		Sports
+60	 Bajaj Pulsar 180	2013	Rs. 	60000.0	179		Sports
+61	 Hero CBZ	2011	Rs. 	60000.0	150		Commuter
+62	 Honda CB Unicorn 150	2013	Rs. 	60000.0	150		Commuter
+63	 Honda CB Unicorn 150	2012	Rs. 	60000.0	150		Commuter
+64	 Honda CB Shine	2012	Rs. 	60000.0	124		Commuter
+65	 Honda CB Unicorn 150	2013	Rs. 	60000.0	150		Commuter
+66	 Hero CBZ	2011	Rs. 	60000.0	150		Commuter
+67	 Hero iSmart 110	2015	Rs. 	60000.0	110		Commuter
+68	 Runner Knight Rider	2017	Rs. 	60000.0	150		Commuter
+69	 Honda CB Unicorn 150	2013	Rs. 	60000.0	150		Commuter
+70	 Honda CB Shine	2010	Rs. 	60000.0	124		Commuter
+71	 Runner Turbo	2024	Rs. 	60000.0	150		Commuter
+72	 Bajaj Pulsar 180	2013	Rs. 	60000.0	179		Sports
+73	 Honda Navi	2016	Rs. 	60000.0	110		Scooter
+74	 Honda CB Twister	2011	Rs. 	60000.0	109		Commuter
+75	 Hero CBZ	2011	Rs. 	60000.0	150		Commuter
+76	 Honda Dio	2012	Rs. 	60000.0	110		Scooter
+77	 Hero XTreme 160R	2012	Rs. 	62000.0	163		Commuter
+78	 TVS Jupiter Classic	2014	Rs. 	63000.0	110		Scooter
+79	 Honda CB Shine	2010	Rs. 	64000.0	124		Commuter
+80	 TVS Apache RTR 180 2V	2014	Rs. 	65000.0	178		Sports
+81	 Yamaha Alba 106	2009	Rs. 	65000.0			
+82	 TVS Apache RTR 180 2V	2017	Rs. 	65000.0	178		Sports
+83	 Bajaj Pulsar 150	2007	Rs. 	65000.0	150		Sports Naked
+84	 Bajaj Pulsar NS 160	2017	Rs. 	65000.0	160		Sports Naked
+85	 Hero Duet	2016	Rs. 	65000.0	111		Scooter
+86	 Honda CB Unicorn 150	2013	Rs. 	65000.0	150		Commuter
+87	 TVS Apache RTR 180 2V	2014	Rs. 	65000.0	178		Sports
+88	 Hero Duet	2016	Rs. 	65000.0	111		Scooter
+89	 Hero Splendor Plus	2009	Rs. 	65000.0	98		Commuter
+90	 Bajaj Pulsar NS 160	2017	Rs. 	65000.0	160		Sports Naked
+91	 TVS Apache RTR 180 2V	2017	Rs. 	65000.0	178		Sports
+92	 Hero HF Deluxe	2013	Rs. 	67000.0	98		Commuter
+93	 Hero iSmart 110	2014	Rs. 	67000.0	110		Commuter
+94	 Yamaha Ray Z 113	2015	Rs. 	67900.0	113		Scooter
+95	 Yamaha R15 V1	2011	Rs. 	68000.0	149		Sports
+96	 Yamaha SZ-RR	2016	Rs. 	70000.0	149		Commuter
+97	 Suzuki Hayate EP	2019	Rs. 	70000.0	113		Commuter
+98	 Yamaha FZ V1	1980	Rs. 	70000.0	149		Sports Naked
+99	 TVS Wego	2014	Rs. 	70000.0	110		Scooter
+100	 Hero iSmart 110	2010	Rs. 	70000.0	110		Commuter
+101	 Motorhead Tekken 250	2019	Rs. 	70000.0	250		Dirt
+102	 Honda CB Shine	2010	Rs. 	70000.0	124		Commuter
+103	 Yamaha Fascino 113	2015	Rs. 	70000.0	113		Scooter
+104	 Hero Super Splendor	2010	Rs. 	70000.0	125		Commuter
+105	 Hero CBZ	2012	Rs. 	70000.0	150		Commuter
+106	 Hero CBZ	2012	Rs. 	70000.0	150		Commuter
+107	 Yamaha FZ V1	2016	Rs. 	70000.0	149		Sports Naked
+108	 Hero Hunk 150R	2009	Rs. 	70000.0	150		Commuter
+109	 Yamaha YBR	2010	Rs. 	70000.0	125		Commuter
+110	 Bajaj Pulsar AS 200	2008	Rs. 	70000.0	200		Sports
+111	 Yamaha FZ V1	2012	Rs. 	70000.0	149		Sports Naked
+112	 Hartford VR150H	2011	Rs. 	70000.0	150		Commuter
+113	 Motorhead Tekken 250	2019	Rs. 	70000.0	250		Dirt
+114	 Hero iSmart 110	2016	Rs. 	70000.0	110		Commuter
+115	 Hero Super Splendor	2010	Rs. 	70000.0	125		Commuter
+116	 Hero iSmart 110	2010	Rs. 	70000.0	110		Commuter
+117	 Yamaha Ray Z 113	2013	Rs. 	70000.0	113		Scooter
+118	 Honda CB Shine	2009	Rs. 	72000.0	124		Commuter
+119	 TVS Apache RTR 160 2V	2013	Rs. 	74000.0	160		Sports
+120	 Hero Glamour	2014	Rs. 	75000.0	125		Commuter
+121	 Yamaha Fascino 113	2010	Rs. 	75000.0	113		Scooter
+122	 Honda CB Unicorn 160	2016	Rs. 	75000.0	163		Commuter
+123	 Honda CB Unicorn 150	2012	Rs. 	75000.0	150		Commuter
+124	 Yamaha Saluto	2017	Rs. 	75000.0	125		Commuter
+125	 Hero Hunk 150R	2010	Rs. 	75000.0	150		Commuter
+126	 Hero Dash	2014	Rs. 	75000.0	111		Scooter
+127	 Yamaha Saluto	2017	Rs. 	75000.0	125		Commuter
+128	 Honda CB Unicorn 160	2016	Rs. 	75000.0	163		Commuter
+129	 Honda Stunner	2011	Rs. 	75000.0	125		Commuter
+130	 TVS Apache RTR 180 2V	2014	Rs. 	75000.0	178		Sports
+131	 Hero Dash	2014	Rs. 	75000.0	111		Scooter
+132	 Honda CB Unicorn 150	2012	Rs. 	75000.0	150		Commuter
+133	 Bajaj Pulsar 220F	2009	Rs. 	75000.0	220		Sports
+134	 Bajaj Pulsar 150	2010	Rs. 	75000.0	150		Sports Naked
+135	 Honda CB Shine	2011	Rs. 	80000.0	124		Commuter
+136	 Suzuki Gixxer 150	2017	Rs. 	80000.0	155		Sports
+137	 Bajaj Pulsar 150	2014	Rs. 	80000.0	150		Sports Naked
+138	 Yamaha SZ-RR	2014	Rs. 	80000.0	149		Commuter
+139	 Honda CB Shine	2013	Rs. 	80000.0	124		Commuter
+140	 Hero Dash	2017	Rs. 	80000.0	111		Scooter
+141	 Honda CB Trigger	2016	Rs. 	80000.0	150		Commuter
+142	 Yamaha Ray ZR	2017	Rs. 	80000.0	113		Scooter
+143	 TVS Apache RTR 180 2V	2013	Rs. 	80000.0	178		Sports
+144	 Honda CB Trigger	2016	Rs. 	80000.0	150		Commuter
+145	 TVS Apache RTR 160 2V	2013	Rs. 	80000.0	160		Sports
+146	 Yamaha FZ V2	2016	Rs. 	80000.0	149		Sports Naked
+147	 Suzuki Gixxer 150	2014	Rs. 	80000.0	155		Sports
+148	 Honda Dio	2013	Rs. 	80000.0	110		Scooter
+149	 Honda Aviator	2016	Rs. 	80000.0	110		Scooter
+150	 Suzuki Slingshot	2011	Rs. 	80000.0	124		Commuter
+151	 Hero Super Splendor	2017	Rs. 	80000.0	125		Commuter
+152	 Bajaj Pulsar 220F	2012	Rs. 	80000.0	220		Sports
+153	 Honda CB Shine	2011	Rs. 	80000.0	124		Commuter
+154	 Yamaha R15 V2	2010	Rs. 	80000.0	149		Sports
+155	 Suzuki Gixxer 150	2017	Rs. 	80000.0	155		Sports
+156	 Hero Duet	2017	Rs. 	80000.0	111		Scooter
+157	 Hero Dash	2017	Rs. 	80000.0	111		Scooter
+158	 Bajaj Pulsar 150	2013	Rs. 	81000.0	150		Sports Naked
+159	 Honda Activa 125	2017	Rs. 	82000.0	124		Scooter
+160	 Hero Splendor Plus	2014	Rs. 	82000.0	98		Commuter
+161	 Honda CD 110 Dream	2000	Rs. 	85000.0	110		Commuter
+162	 Bajaj Pulsar NS 200	2014	Rs. 	85000.0	200		Sports Naked
+163	 Hero XTreme 200R	2018	Rs. 	85000.0	199		Commuter
+164	 Honda CB Hornet 160R	2016	Rs. 	85000.0	163		Sports Naked
+165	 Hero iSmart 110	2017	Rs. 	85000.0	110		Commuter
+166	 Bajaj DISCOVER 150	2016	Rs. 	85000.0	145		Commuter
+167	 Yamaha Fascino 113	2016	Rs. 	85000.0	113		Scooter
+168	 Suzuki Gixxer 150	2016	Rs. 	85000.0	155		Sports
+169	 Honda CB Shine	2012	Rs. 	85000.0	124		Commuter
+170	 Bajaj DISCOVER 150	2016	Rs. 	85000.0	145		Commuter
+171	 Bajaj Pulsar NS 200	2014	Rs. 	85000.0	200		Sports Naked
+172	 Hero XTreme 200R	2018	Rs. 	85000.0	199		Commuter
+173	 Honda Activa 125	2015	Rs. 	85000.0	124		Scooter
+174	 Bajaj Pulsar AS 150	2016	Rs. 	85000.0	150		Sports
+175	 Bajaj Pulsar 150	2016	Rs. 	85000.0	150		Sports Naked
+176	 Yamaha FZ V2	2016	Rs. 	85000.0	149		Sports Naked
+177	 Bajaj Pulsar 150	2013	Rs. 	85000.0	150		Sports Naked
+178	 Bajaj Pulsar 150	2014	Rs. 	85000.0	150		Sports Naked
+179	 Motorhead Scrambler 250	2019	Rs. 	85000.0	250		Scrambler
+180	 Honda CB Hornet 160R	2016	Rs. 	85000.0	163		Sports Naked
+181	 Honda Aviator	2016	Rs. 	87000.0	110		Scooter
+182	 TVS Jupiter Classic	2010	Rs. 	88000.0	110		Scooter
+183	 Yamaha FZ V1	2015	Rs. 	89000.0	149		Sports Naked
+184	 Yamaha Saluto	2018	Rs. 	89000.0	125		Commuter
+185	 Honda CB Unicorn 150	2014	Rs. 	89000.0	150		Commuter
+186	 Suzuki Gixxer 150	2014	Rs. 	89000.0	155		Sports
+187	 Suzuki Gixxer 150	2015	Rs. 	89900.0	155		Sports
+188	 Bajaj Pulsar 180	2013	Rs. 	90000.0	179		Sports
+189	 Hero Duet	2017	Rs. 	90000.0	111		Scooter
+190	 Bajaj V15	2017	Rs. 	90000.0	150		Commuter
+191	 Hartford VR150H	2007	Rs. 	90000.0	150		Commuter
+192	 Yamaha Ray ZR Street Rally 125 FI	2018	Rs. 	90000.0	125		Scooter
+193	 Bajaj Pulsar 180	2013	Rs. 	90000.0	179		Sports
+194	 Hero Duet	2017	Rs. 	90000.0	111		Scooter
+195	 Yamaha Alba 106	2020	Rs. 	90000.0			
+196	 Bajaj Pulsar 220F	2013	Rs. 	90000.0	220		Sports
+197	 Hero Duet	2016	Rs. 	90000.0	111		Scooter
+198	 Suzuki Gixxer SF 150	2016	Rs. 	90000.0	155		Sports
+199	 Honda Dio	2016	Rs. 	90000.0	110		Scooter
+200	 Bajaj Avenger 220 Cruise	2014	Rs. 	90000.0	220		Cruiser
+201	 Bajaj DISCOVER 150	2016	Rs. 	90000.0	145		Commuter
+202	 Yamaha FZS V1	2013	Rs. 	90000.0			
+203	 Bajaj V15	2016	Rs. 	90000.0	150		Commuter
+204	 Bajaj Avenger 150 Street	2016	Rs. 	90000.0	150		Cruiser
+205	 Honda Activa 125	2021	Rs. 	90000.0	124		Scooter
+206	 TVS Apache RTR 180 2V	2016	Rs. 	90000.0	178		Sports
+207	 Yamaha Fascino	2017	Rs. 	90000.0	113		Scooter
+208	 TVS Apache RTR 180 2V	2020	Rs. 	90000.0	178		Sports
+209	 Yamaha R15 V2	2009	Rs. 	90000.0	149		Sports
+210	 Bajaj Pulsar 220F	2012	Rs. 	90000.0	220		Sports
+211	 Bajaj Pulsar 180	2013	Rs. 	90000.0	179		Sports
+212	 Honda CB Unicorn 160	2016	Rs. 	90000.0	163		Commuter
+213	 Bajaj V15	2016	Rs. 	90000.0	150		Commuter
+214	 Yamaha Fascino 113	2016	Rs. 	90000.0	113		Scooter
+215	 Bajaj Avenger 220 Cruise	2014	Rs. 	90000.0	220		Cruiser
+216	 Hero Super Splendor	2015	Rs. 	92000.0	125		Commuter
+217	 Yamaha SZ-RR	2016	Rs. 	93000.0	149		Commuter
+218	 Yamaha SZ-RR	2018	Rs. 	93999.0	149		Commuter
+219	 Honda CB Hornet 160R	2016	Rs. 	95000.0	163		Sports Naked
+220	 Yamaha FZS V2	2014	Rs. 	95000.0	149		Sports Naked
+221	 Honda CB Hornet 160R	2016	Rs. 	95000.0	163		Sports Naked
+222	 Honda Aviator	2016	Rs. 	95000.0	110		Scooter
+223	 Hartford VR150H	2009	Rs. 	95000.0	150		Commuter
+224	 Honda CB Unicorn 160	2015	Rs. 	95000.0	163		Commuter
+225	 Bajaj Pulsar 180	2014	Rs. 	95000.0	179		Sports
+226	 Honda CB Shine	2014	Rs. 	95000.0	124		Commuter
+227	 Hartford VR150H	2013	Rs. 	95000.0	150		Commuter
+228	 Hero Super Splendor	2016	Rs. 	95000.0	125		Commuter
+229	 Bajaj Pulsar 220F	2024	Rs. 	95000.0	220		Sports
+230	 Bajaj Pulsar 150	2012	Rs. 	95000.0	150		Sports Naked
+231	 Yamaha Ray ZR Street Rally 113	2017	Rs. 	95000.0	113		Scooter
+232	 Bajaj Pulsar 180	2014	Rs. 	95000.0	179		Sports
+233	 Bajaj Pulsar AS 200	2015	Rs. 	98000.0	200		Sports
+234	 Suzuki Gixxer 150	2016	Rs. 	98000.0	155		Sports
+235	 Honda CB Trigger	2015	Rs. 	98000.0	150		Commuter
+236	 Yamaha Ray Z 113	2019	Rs. 	99000.0	113		Scooter
+237	 Honda Activa 125	2014	Rs. 	99000.0	124		Scooter
+238	 Bajaj Pulsar AS 200	2015	Rs. 	99000.0	200		Sports
+239	 Suzuki Gixxer 150	2016	Rs. 	99000.0	155		Sports
+240	 Yamaha Fascino 113	2017	Rs. 	99000.0	113		Scooter
+241	 Suzuki Gixxer 150	2016	Rs. 	99999.0	155		Sports
+242	 Suzuki GS150R	2016	Rs. 	100000.0	149		Commuter
+243	 Yamaha FZS V2	2024	Rs. 	100000.0	149		Sports Naked
+244	 Bajaj Avenger 150 Street	2016	Rs. 	100000.0	150		Cruiser
+245	 TVS Apache RTR 160 4V	2018	Rs. 	100000.0	160		Sports
+246	 Bajaj Pulsar 220F	2012	Rs. 	100000.0	220		Sports
+247	 Honda Aviator	2017	Rs. 	100000.0	110		Scooter
+248	 Bajaj Pulsar 220F	2013	Rs. 	100000.0	220		Sports
+249	 TVS Apache RTR 160 2V	2013	Rs. 	100000.0	160		Sports
+250	 UM Renegade Commando	2016	Rs. 	100000.0			
+251	 Honda Aviator	2017	Rs. 	100000.0	110		Scooter
+252	 TVS Apache RTR 160 2V	2017	Rs. 	100000.0	160		Sports
+253	 TVS Apache RTR 160 2V	2012	Rs. 	100000.0	160		Sports
+254	 TVS Apache RTR 160 2V	2013	Rs. 	100000.0	160		Sports
+255	 Bajaj Pulsar NS 160	2017	Rs. 	100000.0	160		Sports Naked
+256	 Bajaj Pulsar 180	2015	Rs. 	100000.0	179		Sports
+257	 Suzuki GS150R	2016	Rs. 	100000.0	149		Commuter
+258	 Honda Aviator	2017	Rs. 	100000.0	110		Scooter
+259	 Bajaj Pulsar NS 200	2014	Rs. 	100000.0	200		Sports Naked
+260	 Honda Aviator	2017	Rs. 	100000.0	110		Scooter
+261	 Hero Super Splendor	2012	Rs. 	100000.0	125		Commuter
+262	 TVS Jupiter Classic	2019	Rs. 	100000.0	110		Scooter
+263	 Bajaj Pulsar 220F	2013	Rs. 	100000.0	220		Sports
+264	 Bajaj Pulsar 220F	2015	Rs. 	100000.0	220		Sports
+265	 TVS Apache RTR 160 4V	2018	Rs. 	100000.0	160		Sports
+266	 Aprilia SR 125	2021	Rs. 	100000.0	125		Scooter
+267	 Honda CB Hornet 160R	2017	Rs. 	100000.0	163		Sports Naked
+268	 Hero XTreme 200R	2019	Rs. 	101000.0	199		Commuter
+269	 Bajaj Pulsar 220F	2012	Rs. 	104999.0	220		Sports
+270	 UM Renegade Commando	2015	Rs. 	105000.0			
+271	 Yamaha Ray Z 113	2019	Rs. 	105000.0	113		Scooter
+272	 Bajaj Pulsar 150	2016	Rs. 	105000.0	150		Sports Naked
+273	 Bajaj Pulsar 220F	2013	Rs. 	105000.0	220		Sports
+274	 Bajaj Pulsar NS 200	2016	Rs. 	105000.0	200		Sports Naked
+275	 Honda Dio	2017	Rs. 	105000.0	110		Scooter
+276	 Yamaha Ray ZR	2018	Rs. 	105000.0	113		Scooter
+277	 Bajaj Pulsar 150	2016	Rs. 	105000.0	150		Sports Naked
+278	 Bajaj Pulsar 220F	2013	Rs. 	105000.0	220		Sports
+279	 UM Renegade Commando	2015	Rs. 	105000.0			
+280	 Yamaha Ray Z 113	2019	Rs. 	105000.0	113		Scooter
+281	 Vespa LX	2014	Rs. 	105000.0	125		Scooter
+282	 Yamaha SZ-RR	2017	Rs. 	107000.0	149		Commuter
+283	 Suzuki Gixxer 150	2016	Rs. 	108000.0	155		Sports
+284	 Honda CB Hornet 160R	2016	Rs. 	109999.0	163		Sports Naked
+285	 Hartford VR150H	2014	Rs. 	110000.0	150		Commuter
+286	 Hero Hunk 150R	2021	Rs. 	110000.0	150		Commuter
+287	 TVS Jupiter Classic	2023	Rs. 	110000.0	110		Scooter
+288	 Bajaj Pulsar NS 160	2017	Rs. 	110000.0	160		Sports Naked
+289	 TVS Apache RTR 200 4V	2017	Rs. 	110000.0	198		Sports
+290	 Bajaj Pulsar 220F	2018	Rs. 	110000.0	220		Sports
+291	 Bajaj Pulsar NS 160	2017	Rs. 	110000.0	160		Sports Naked
+292	 Honda Dio	2017	Rs. 	110000.0	110		Scooter
+293	 TVS Apache RTR 160 4V	2018	Rs. 	110000.0	160		Sports
+294	 TVS Ntorq 125 Disc	2018	Rs. 	110000.0	125		Scooter
+295	 Bajaj Pulsar 220F	2016	Rs. 	110000.0	220		Sports
+296	 Bajaj Pulsar NS 200	2016	Rs. 	110000.0	200		Sports Naked
+297	 Bajaj Pulsar 150	2013	Rs. 	110000.0	150		Sports Naked
+298	 Hero Hunk 150R	2021	Rs. 	110000.0	150		Commuter
+299	 Hero Hunk 150R	2021	Rs. 	110000.0	150		Commuter
+300	 Bajaj Pulsar 220F	2018	Rs. 	110000.0	220		Sports
+301	 Honda Dio	2017	Rs. 	110000.0	110		Scooter
+302	 Hero Pleasure Plus	2018	Rs. 	110000.0	111		Scooter
+303	 TVS Jupiter Classic	2023	Rs. 	110000.0	110		Scooter
+304	 Yamaha FZ V2	2016	Rs. 	110000.0	149		Sports Naked
+305	 Mitsuzu Model lp E	2023	Rs. 	110000.0		1,500 	Scooter
+306	 TVS Apache RTR 200 4V	2017	Rs. 	110000.0	198		Sports
+307	 Honda Aviator	2018	Rs. 	110000.0	110		Scooter
+308	 Bajaj Pulsar 150TD	2019	Rs. 	111111.0	150		Commuter
+309	 Vespa VXL	2017	Rs. 	112000.0	150		Scooter
+310	 Honda Aviator	2017	Rs. 	113300.0	110		Scooter
+311	 Honda Aviator	2018	Rs. 	115000.0	110		Scooter
+312	 Yamaha Ray ZR Street Rally 113	2019	Rs. 	115000.0	113		Scooter
+313	 Hero XTreme 200R	2019	Rs. 	115000.0	199		Commuter
+314	 Yamaha SZ-RR	2020	Rs. 	115000.0	149		Commuter
+315	 Bajaj Pulsar NS 200	2017	Rs. 	115000.0	200		Sports Naked
+316	 Yamaha SZ-RR	2020	Rs. 	115000.0	149		Commuter
+317	 TVS Apache RTR 200 4V	2016	Rs. 	115000.0	198		Sports
+318	 Bajaj Pulsar NS 200	2015	Rs. 	115000.0	200		Sports Naked
+319	 Yamaha FZS V2	2015	Rs. 	118000.0	149		Sports Naked
+320	 TVS Apache RTR 200 4V	2018	Rs. 	119000.0	198		Sports
+321	 Bajaj Pulsar 150	2016	Rs. 	119000.0	150		Sports Naked
+322	 Bajaj Pulsar 150	2017	Rs. 	119000.0	150		Sports Naked
+323	 TVS Stryker 125	2018	Rs. 	119999.0	125		Commuter
+324	 Aprilia SR 150	2018	Rs. 	120000.0	150		Scooter
+325	 Bajaj Pulsar 150	2016	Rs. 	120000.0	150		Sports Naked
+326	 TVS Apache RTR 200 4V	2018	Rs. 	120000.0	198		Sports
+327	 TVS Apache RTR 160 4V	2018	Rs. 	120000.0	160		Sports
+328	 Yamaha FZ 25	2017	Rs. 	120000.0	249		Sports Naked
+329	 Bajaj Pulsar 150TD	2018	Rs. 	120000.0	150		Commuter
+330	 Bajaj Pulsar NS 200	2017	Rs. 	120000.0	200		Sports Naked
+331	 Yamaha FZS V2	2016	Rs. 	120000.0	149		Sports Naked
+332	 Bajaj Avenger 150 Street	2020	Rs. 	120000.0	150		Cruiser
+333	 Bajaj Pulsar 220F	2017	Rs. 	120000.0	220		Sports
+334	 CFMoto 150NK	2018	Rs. 	120000.0	150		Sports Naked
+335	 Bajaj Pulsar 220F	2017	Rs. 	120000.0	220		Sports
+336	 Benelli TNT 150i	2019	Rs. 	120000.0	148		Sports Naked
+337	 Bajaj Pulsar 220F	2017	Rs. 	120000.0	220		Sports
+338	 Bajaj Pulsar NS 200 ABS	2014	Rs. 	120000.0	200		Sports Naked
+339	 Honda XBlade	2017	Rs. 	120000.0	163		Sports Naked
+340	 Bajaj Pulsar 150	2017	Rs. 	120000.0	150		Sports Naked
+341	 Aprilia SR 150	2018	Rs. 	120000.0	150		Scooter
+342	 Suzuki Gixxer 150	2014	Rs. 	120000.0	155		Sports
+343	 Yamaha FZ 25	2017	Rs. 	120000.0	249		Sports Naked
+344	 Aprilia SR 150	2018	Rs. 	120000.0	150		Scooter
+345	 Benelli TNT 150i	2019	Rs. 	120000.0	148		Sports Naked
+346	 Bajaj Pulsar 220F	2017	Rs. 	120000.0	220		Sports
+347	 Bajaj Pulsar 150	2016	Rs. 	120000.0	150		Sports Naked
+348	 Bajaj Pulsar 150	2017	Rs. 	120000.0	150		Sports Naked
+349	 Bajaj Pulsar NS 200	2017	Rs. 	120000.0	200		Sports Naked
+350	 Honda Aviator	2017	Rs. 	120000.0	110		Scooter
+351	 Aprilia SR 150	2018	Rs. 	120000.0	150		Scooter
+352	 Bajaj Pulsar 150	2017	Rs. 	120000.0	150		Sports Naked
+353	 Bajaj Pulsar 150	2024	Rs. 	120000.0	150		Sports Naked
+354	 TVS Apache RTR 160 4V	2018	Rs. 	120000.0	160		Sports
+355	 Bajaj Pulsar 220F	2014	Rs. 	120000.0	220		Sports
+356	 Bajaj Pulsar 150TD	2018	Rs. 	120000.0	150		Commuter
+357	 Bajaj Pulsar 150	2017	Rs. 	120000.0	150		Sports Naked
+358	 Yamaha FZ 25	2017	Rs. 	120000.0	249		Sports Naked
+359	 Suzuki Gixxer 150	2017	Rs. 	120000.0	155		Sports
+360	 Bajaj Pulsar 150	2017	Rs. 	120000.0	150		Sports Naked
+361	 Bajaj Pulsar 150TD	2018	Rs. 	120000.0	150		Commuter
+362	 Bajaj Pulsar 150	2017	Rs. 	120000.0	150		Sports Naked
+363	 Bajaj Pulsar 150	2016	Rs. 	120000.0	150		Sports Naked
+364	 TVS Apache RTR 160 4V	2018	Rs. 	120000.0	160		Sports
+365	 Bajaj Pulsar NS 200 ABS	2014	Rs. 	120000.0	200		Sports Naked
+366	 Yamaha SZ-RR	2020	Rs. 	120000.0	149		Commuter
+367	 Suzuki Gixxer 150	2014	Rs. 	120000.0	155		Sports
+368	 Honda Dio	2017	Rs. 	120000.0	110		Scooter
+369	 Bajaj Avenger 150 Street	2017	Rs. 	122000.0	150		Cruiser
+370	 Suzuki Access 125	2019	Rs. 	122000.0	124		Scooter
+371	 Yamaha R15 V2	2015	Rs. 	125000.0	149		Sports
+372	 Bajaj Pulsar NS 200	2016	Rs. 	125000.0	200		Sports Naked
+373	 Yamaha SZ-RR	2020	Rs. 	125000.0	149		Commuter
+374	 Honda Dio	2017	Rs. 	125000.0	110		Scooter
+375	 TAILG Tiger	2022	Rs. 	125000.0		800	Scooter
+376	 Bajaj Pulsar 220F	2017	Rs. 	125000.0	220		Sports
+377	 Hero Splendor	2024	Rs. 	125000.0	98		Commuter
+378	 Yamaha FZS V2	2014	Rs. 	125000.0	149		Sports Naked
+379	 Yamaha Saluto	2017	Rs. 	125000.0	125		Commuter
+380	 Bajaj Pulsar NS 200	2016	Rs. 	125000.0	200		Sports Naked
+381	 Aprilia SR 125	2018	Rs. 	125000.0	125		Scooter
+382	 Yamaha FZS V2	2015	Rs. 	125000.0	149		Sports Naked
+383	 Honda Dio	2017	Rs. 	125000.0	110		Scooter
+384	 Yamaha FZS V2	2015	Rs. 	125000.0	149		Sports Naked
+385	 Hero Splendor	2024	Rs. 	125000.0	98		Commuter
+386	 Honda CB Unicorn 160	2020	Rs. 	125000.0	163		Commuter
+387	 Yamaha FZS V2	2014	Rs. 	125000.0	149		Sports Naked
+388	 Bajaj V15	2017	Rs. 	125000.0	150		Commuter
+389	 Bajaj Discover 125 ST	2019	Rs. 	125000.0	125		Commuter
+390	 Yamaha R15 V2	2015	Rs. 	125000.0	149		Sports
+391	 Yamaha SZ-RR	2020	Rs. 	125000.0	149		Commuter
+392	 TVS Apache RTR 160 2V	2015	Rs. 	125000.0	160		Sports
+393	 Honda CB Hornet 160R	2016	Rs. 	125000.0	163		Sports Naked
+394	 Yamaha FZS V1	2015	Rs. 	126000.0			
+395	 Yamaha FZS V2	2015	Rs. 	126000.0	149		Sports Naked
+396	 Honda Dio	2018	Rs. 	126000.0	110		Scooter
+397	 Aprilia SR 125	2018	Rs. 	127000.0	125		Scooter
+398	 Honda CB Hornet 160R	2018	Rs. 	127000.0	163		Sports Naked
+399	 Yamaha R15 V1	2016	Rs. 	129000.0	149		Sports
+400	 Yamaha Ray ZR Street Rally 113	2019	Rs. 	129999.0	113		Scooter
+401	 Aprilia SR 150	2018	Rs. 	130000.0	150		Scooter
+402	 Suzuki Gixxer 150	2019	Rs. 	130000.0	155		Sports
+403	 TVS Ntorq 125 Disc	2018	Rs. 	130000.0	125		Scooter
+404	 TVS Apache RTR 160 4V	2019	Rs. 	130000.0	160		Sports
+405	 UM Renegade Commando	2014	Rs. 	130000.0			
+406	 Bajaj Pulsar 125	2020	Rs. 	130000.0	125		Sports Naked
+407	 Honda Dio BS6	2018	Rs. 	130000.0	110		Scooter
+408	 Bajaj Pulsar 150	2018	Rs. 	130000.0	150		Sports Naked
+409	 Bajaj Pulsar 220F	2017	Rs. 	130000.0	220		Sports
+410	 Bajaj Pulsar NS 200	2016	Rs. 	130000.0	200		Sports Naked
+411	 Yamaha FZ V2	2017	Rs. 	130000.0	149		Sports Naked
+412	 Bajaj Pulsar 150	2019	Rs. 	130000.0	150		Sports Naked
+413	 Honda Dio	2020	Rs. 	130000.0	110		Scooter
+414	 Honda CB Shine	2016	Rs. 	130000.0	124		Commuter
+415	 Aprilia SR 125	2019	Rs. 	130000.0	125		Scooter
+416	 Honda Grazia BS6	2019	Rs. 	130000.0	124		Scooter
+417	 Bajaj NS 200 FI ABS	2017	Rs. 	130000.0	200		Sports Naked
+418	 TVS Ntorq 125 Disc	2020	Rs. 	130000.0	125		Scooter
+419	 Bajaj Pulsar 150	2017	Rs. 	130000.0	150		Sports Naked
+420	 TVS Apache RTR 200 4V	2017	Rs. 	130000.0	198		Sports
+421	 TVS Ntorq 125 Disc	2020	Rs. 	130000.0	125		Scooter
+422	 TVS Apache RTR 200 4V	2017	Rs. 	130000.0	198		Sports
+423	 Suzuki Gixxer 150	2019	Rs. 	130000.0	155		Sports
+424	 Bajaj Pulsar 150	2018	Rs. 	130000.0	150		Sports Naked
+425	 Honda Grazia BS6	2019	Rs. 	130000.0	124		Scooter
+426	 Bajaj NS 200 FI ABS	2017	Rs. 	130000.0	200		Sports Naked
+427	 Bajaj Pulsar 180	2012	Rs. 	130000.0	179		Sports
+428	 TVS Apache RTR 180 2V	2018	Rs. 	130000.0	178		Sports
+429	 Yamaha Ray ZR 125 FI	2020	Rs. 	132000.0	125		Scooter
+430	 Aprilia SR 125	2019	Rs. 	133000.0	125		Scooter
+431	 Bajaj Pulsar 150TD	2018	Rs. 	135000.0	150		Commuter
+432	 Honda Dio	2019	Rs. 	135000.0	110		Scooter
+433	 Bajaj Pulsar 150	2018	Rs. 	135000.0	150		Sports Naked
+434	 Bajaj Pulsar 220F	2016	Rs. 	135000.0	220		Sports
+435	 Hero Super Splendor	2019	Rs. 	135000.0	125		Commuter
+436	 Bajaj Pulsar NS 200	2017	Rs. 	135000.0	200		Sports Naked
+437	 Yamaha Fascino 125 FI	2020	Rs. 	135000.0	125		Scooter
+438	 Bajaj Pulsar 150	2017	Rs. 	135000.0	150		Sports Naked
+439	 Bajaj Pulsar 220F	2016	Rs. 	135000.0	220		Sports
+440	 Honda Dio	2017	Rs. 	135000.0	110		Scooter
+441	 Yamaha FZS V2	2017	Rs. 	135000.0	149		Sports Naked
+442	 Bajaj Pulsar NS 200	2018	Rs. 	135000.0	200		Sports Naked
+443	 Bajaj Pulsar 150	2017	Rs. 	135000.0	150		Sports Naked
+444	 Bajaj Pulsar 150	2018	Rs. 	135000.0	150		Sports Naked
+445	 TVS Apache RTR 200 4V	2018	Rs. 	135000.0	198		Sports
+446	 TVS Ntorq 125 Drum	2021	Rs. 	135000.0	125		Scooter
+447	 Yamaha FZS V2	2017	Rs. 	135000.0	149		Sports Naked
+448	 Hero Super Splendor	2019	Rs. 	135000.0	125		Commuter
+449	 Yadea Rayman	2023	Rs. 	135000.0		2,000 	Scooter
+450	 Yamaha FZ 25	2018	Rs. 	135000.0	249		Sports Naked
+451	 TVS Radeon	2021	Rs. 	135000.0	110		Commuter
+452	 Bajaj Pulsar NS 200	2017	Rs. 	135000.0	200		Sports Naked
+453	 Yamaha FZ V2	2017	Rs. 	137000.0	149		Sports Naked
+454	 Bajaj Pulsar 220F	2018	Rs. 	137999.0	220		Sports
+455	 Bajaj Pulsar 220F	2017	Rs. 	138000.0	220		Sports
+456	 Honda Dio	2018	Rs. 	138000.0	110		Scooter
+457	 Bajaj Pulsar 220F	2017	Rs. 	138000.0	220		Sports
+458	 Honda Dio	2018	Rs. 	139000.0	110		Scooter
+459	 Honda CB Shine	2018	Rs. 	139000.0	124		Commuter
+460	 Bajaj Pulsar 220F	2017	Rs. 	139000.0	220		Sports
+461	 Bajaj Pulsar 220F	2016	Rs. 	140000.0	220		Sports
+462	 Bajaj Pulsar 150TD	2018	Rs. 	140000.0	150		Commuter
+463	 Bajaj Pulsar 150TD	2018	Rs. 	140000.0	150		Commuter
+464	 Aprilia SR 150	2021	Rs. 	140000.0	150		Scooter
+465	 Honda Grazia BS4	2018	Rs. 	140000.0	124		Scooter
+466	 Yamaha FZS V2	2017	Rs. 	140000.0	149		Sports Naked
+467	 Yamaha FZS V2	2016	Rs. 	140000.0	149		Sports Naked
+468	 Aprilia SR 125	2020	Rs. 	140000.0	125		Scooter
+469	 Yamaha FZS V2	2018	Rs. 	140000.0	149		Sports Naked
+470	 Honda Grazia BS4	2019	Rs. 	140000.0	124		Scooter
+471	 Bajaj Avenger 220 Cruise	2018	Rs. 	140000.0	220		Cruiser
+472	 Yamaha Ray ZR	2017	Rs. 	140000.0	113		Scooter
+473	 TVS Apache RTR 200 4V	2016	Rs. 	140000.0	198		Sports
+474	 Aprilia SR 125	2018	Rs. 	140000.0	125		Scooter
+475	 Bajaj Pulsar 220F	2016	Rs. 	140000.0	220		Sports
+476	 Hero Glamour	2019	Rs. 	140000.0	125		Commuter
+477	 Bajaj Pulsar 220F	2017	Rs. 	140000.0	220		Sports
+478	 Bajaj Avenger 180 Street	2018	Rs. 	140000.0	180		Cruiser
+479	 Bajaj Pulsar NS 200	2017	Rs. 	140000.0	200		Sports Naked
+480	 Yamaha Fascino 125 FI	2020	Rs. 	140000.0	125		Scooter
+481	 Aprilia SR 150	2019	Rs. 	140000.0	150		Scooter
+482	 Yamaha SZ-RR	2018	Rs. 	140000.0	149		Commuter
+483	 TVS Apache RTR 160 2V	2018	Rs. 	140000.0	160		Sports
+484	 Bajaj Pulsar 150TD	2019	Rs. 	140000.0	150		Commuter
+485	 Bajaj Avenger 220 Cruise	2018	Rs. 	140000.0	220		Cruiser
+486	 Aprilia Storm 125	2021	Rs. 	140000.0	125		Scooter
+487	 Yamaha FZS V2	2018	Rs. 	142000.0	149		Sports Naked
+488	 Aprilia SR 125	2020	Rs. 	143000.0	125		Scooter
+489	 Yamaha Fascino 125 FI	2020	Rs. 	144000.0	125		Scooter
+490	 Hero XTreme 200R	2018	Rs. 	145000.0	199		Commuter
+491	 TVS Apache RTR 200 4V	2017	Rs. 	145000.0	198		Sports
+492	 TVS Ntorq 125 Disc	2019	Rs. 	145000.0	125		Scooter
+493	 Benelli TNT 150i	2019	Rs. 	145000.0	148		Sports Naked
+494	 Honda Dio	2019	Rs. 	145000.0	110		Scooter
+495	 Bajaj Pulsar 150TD	2019	Rs. 	145000.0	150		Commuter
+496	 Bajaj Pulsar NS 200	2018	Rs. 	145000.0	200		Sports Naked
+497	 TVS Ntorq 125 Race Edition	2020	Rs. 	145000.0	125		Scooter
+498	 TVS Apache RTR 160 2V	2016	Rs. 	145000.0	160		Sports
+499	 Bajaj Discover 125 ST	2021	Rs. 	145000.0	125		Commuter
+500	 Yamaha Ray ZR Street Rally 113	2021	Rs. 	145000.0	113		Scooter
+501	 Bajaj Pulsar NS 200	2015	Rs. 	145000.0	200		Sports Naked
+502	 Honda CB Shine	2018	Rs. 	145000.0	124		Commuter
+503	 TVS Ntorq 125 Disc	2019	Rs. 	145000.0	125		Scooter
+504	 Aprilia SR 125	2021	Rs. 	145000.0	125		Scooter
+505	 Bajaj Pulsar 150TD	2019	Rs. 	145000.0	150		Commuter
+506	 Bajaj Pulsar 150	2019	Rs. 	147000.0	150		Sports Naked
+507	 Honda CB Shine SP	2018	Rs. 	148000.0	124		Commuter
+508	 Yamaha FZS V2	2017	Rs. 	148000.0	149		Sports Naked
+509	 Yamaha FZ 25	2017	Rs. 	148000.0	249		Sports Naked
+510	 Aprilia SR 150	2020	Rs. 	148500.0	150		Scooter
+511	 Yamaha FZ 25	2017	Rs. 	149000.0	249		Sports Naked
+512	 Yamaha FZS V2	2016	Rs. 	149000.0	149		Sports Naked
+513	 Honda CB Unicorn 150	2020	Rs. 	149000.0	150		Commuter
+514	 Bajaj Pulsar 150	2018	Rs. 	150000.0	150		Sports Naked
+515	 Benelli TNT 150i	2021	Rs. 	150000.0	148		Sports Naked
+516	 Bajaj NS 200 FI ABS	2020	Rs. 	150000.0	200		Sports Naked
+517	 Honda CB Shine	2013	Rs. 	150000.0	124		Commuter
+518	 Bajaj Pulsar NS 200	2018	Rs. 	150000.0	200		Sports Naked
+519	 TVS Apache RTR 160 4V	2019	Rs. 	150000.0	160		Sports
+520	 TVS Apache RTR 160 4V	2021	Rs. 	150000.0	160		Sports
+521	 Honda Aviator	2019	Rs. 	150000.0	110		Scooter
+522	 Honda Dio	2018	Rs. 	150000.0	110		Scooter
+523	 Bajaj Pulsar 150	2019	Rs. 	150000.0	150		Sports Naked
+524	 Bajaj Pulsar 220F	2016	Rs. 	150000.0	220		Sports
+525	 Bajaj Pulsar 150	2018	Rs. 	150000.0	150		Sports Naked
+526	 Yamaha FZS V1	2023	Rs. 	150000.0			
+527	 TVS Raider 125	2022	Rs. 	150000.0	125		Commuter
+528	 Vespa VXL	2017	Rs. 	150000.0	150		Scooter
+529	 Bajaj Pulsar 220F	2014	Rs. 	150000.0	220		Sports
+530	 Bajaj Pulsar 150	2018	Rs. 	150000.0	150		Sports Naked
+531	 Bajaj NS 200 FI ABS	2018	Rs. 	150000.0	200		Sports Naked
+532	 Bajaj Pulsar 150	2018	Rs. 	150000.0	150		Sports Naked
+533	 Bajaj NS 200 FI ABS	2020	Rs. 	150000.0	200		Sports Naked
+534	 Bajaj Pulsar 150TD	2019	Rs. 	150000.0	150		Commuter
+535	 Bajaj NS 400	2016	Rs. 	150000.0	373		Sports Naked
+536	 Bajaj Pulsar NS 200	2016	Rs. 	150000.0	200		Sports Naked
+537	 Bajaj Pulsar 150	2020	Rs. 	150000.0	150		Sports Naked
+538	 Aprilia SR 150	2022	Rs. 	150000.0	150		Scooter
+539	 Aprilia SR 150	2019	Rs. 	150000.0	150		Scooter
+540	 Yamaha Saluto	2076	Rs. 	150000.0	125		Commuter
+541	 Yamaha SZ-RR	2019	Rs. 	150000.0	149		Commuter
+542	 Honda Activa 125	2018	Rs. 	150000.0	124		Scooter
+543	 TVS Apache RTR 160 4V	2019	Rs. 	150000.0	160		Sports
+544	 Bajaj Pulsar 150TD	2023	Rs. 	150000.0	150		Commuter
+545	 Bajaj Pulsar NS 160	2020	Rs. 	150000.0	160		Sports Naked
+546	 Honda CB Shine SP	2018	Rs. 	150000.0	124		Commuter
+547	 Benelli TNT 150i	2021	Rs. 	150000.0	148		Sports Naked
+548	 ItalicaMoto Formula 150	2020	Rs. 	150000.0	150		Scooter
+549	 Bajaj Pulsar 150	2020	Rs. 	150000.0	150		Sports Naked
+550	 Benelli TNT 150i	2021	Rs. 	150000.0	148		Sports Naked
+551	 TVS Apache RTR 200 4V	2016	Rs. 	150000.0	198		Sports
+552	 Benelli TNT 25	2016	Rs. 	150000.0	249		Sports Naked
+553	 Bajaj Pulsar 220F	2018	Rs. 	150000.0	220		Sports
+554	 Bajaj Pulsar 220F	2017	Rs. 	150000.0	220		Sports
+555	 TVS Raider 125	2022	Rs. 	150000.0	125		Commuter
+556	 Bajaj NS 200 FI ABS	2020	Rs. 	150000.0	200		Sports Naked
+557	 Hero Destini 125	2021	Rs. 	150000.0	125		Scooter
+558	 Aprilia SR 150	2019	Rs. 	150000.0	150		Scooter
+559	 Bajaj Pulsar 150TD	2020	Rs. 	150000.0	150		Commuter
+560	 TVS Apache RTR 200 4V	2016	Rs. 	150000.0	198		Sports
+561	 Bajaj Pulsar 150	2018	Rs. 	150000.0	150		Sports Naked
+562	 Yamaha FZS V1	2023	Rs. 	150000.0			
+563	 Bajaj Pulsar NS 200	2016	Rs. 	150000.0	200		Sports Naked
+564	 Bajaj Pulsar 150TD	2019	Rs. 	150000.0	150		Commuter
+565	 Benelli TNT 150i	2019	Rs. 	150000.0	148		Sports Naked
+566	 Bajaj Pulsar 150	2018	Rs. 	150000.0	150		Sports Naked
+567	 Bajaj Pulsar NS 200	2018	Rs. 	150000.0	200		Sports Naked
+568	 Bajaj Pulsar 150	2018	Rs. 	150000.0	150		Sports Naked
+569	 Bajaj Pulsar NS 200	2018	Rs. 	150000.0	200		Sports Naked
+570	 Bajaj Pulsar 220F	2018	Rs. 	150000.0	220		Sports
+571	 Aprilia SR 150	2018	Rs. 	150000.0	150		Scooter
+572	 Bajaj Pulsar 150TD	2019	Rs. 	150000.0	150		Commuter
+573	 Bajaj Pulsar 220F	2018	Rs. 	150000.0	220		Sports
+574	 Hero Destini 125	2021	Rs. 	150000.0	125		Scooter
+575	 Honda Activa 125	2018	Rs. 	150000.0	124		Scooter
+576	 Bajaj Pulsar 150	2019	Rs. 	150000.0	150		Sports Naked
+577	 TVS Ntorq 125 Drum	2020	Rs. 	153000.0	125		Scooter
+578	 Honda CB Shine	2018	Rs. 	154900.0	124		Commuter
+579	 Honda CB Shine	2019	Rs. 	155000.0	124		Commuter
+580	 TVS Apache RTR 160 4V	2019	Rs. 	155000.0	160		Sports
+581	 Bajaj Pulsar 150	2019	Rs. 	155000.0	150		Sports Naked
+582	 CFMoto 150NK	2020	Rs. 	155000.0	150		Sports Naked
+583	 Honda CB Shine	2020	Rs. 	155000.0	124		Commuter
+584	 Honda Dio	2019	Rs. 	155000.0	110		Scooter
+585	 Honda Dio	2020	Rs. 	155000.0	110		Scooter
+586	 Honda CB Shine	2019	Rs. 	155000.0	124		Commuter
+587	 TVS Ntorq 125 Race Edition	2020	Rs. 	155000.0	125		Scooter
+588	 Bajaj Pulsar 150	2019	Rs. 	155000.0	150		Sports Naked
+589	 Bajaj Pulsar 220F	2018	Rs. 	155000.0	220		Sports
+590	 Bajaj Pulsar NS 200	2017	Rs. 	155000.0	200		Sports Naked
+591	 TVS Apache RTR 160 4V	2019	Rs. 	155000.0	160		Sports
+592	 Honda Dio	2021	Rs. 	155000.0	110		Scooter
+593	 TVS Apache RTR 200 4V	2018	Rs. 	155000.0	198		Sports
+594	 CFMoto 150NK	2020	Rs. 	155000.0	150		Sports Naked
+595	 Honda Dio	2020	Rs. 	155000.0	110		Scooter
+596	 Yamaha FZS V2	2018	Rs. 	157000.0	149		Sports Naked
+597	 Yamaha FZS V2	2018	Rs. 	157000.0	149		Sports Naked
+598	 Aprilia SR 125	2021	Rs. 	158000.0	125		Scooter
+599	 Aprilia Storm 125	2021	Rs. 	160000.0	125		Scooter
+600	 Bajaj Pulsar 150	2018	Rs. 	160000.0	150		Sports Naked
+601	 TVS Ntorq 125 Drum	2021	Rs. 	160000.0	125		Scooter
+602	 TVS Ntorq 125 Race Edition FI BSVI	2020	Rs. 	160000.0	125		Scooter
+603	 Bajaj Pulsar 220F	2017	Rs. 	160000.0	220		Sports
+604	 Aprilia SR 150	2021	Rs. 	160000.0	150		Scooter
+605	 Vespa SXL	2018	Rs. 	160000.0	150		Scooter
+606	 Yamaha FZ 25	2018	Rs. 	160000.0	249		Sports Naked
+607	 TVS Apache RTR 160 4V	2019	Rs. 	160000.0	160		Sports
+608	 Hero Destini 125	2018	Rs. 	160000.0	125		Scooter
+609	 Honda Activa 125	2018	Rs. 	160000.0	124		Scooter
+610	 Suzuki Gixxer 150	2018	Rs. 	160000.0	155		Sports
+611	 Yamaha FZ 25	2017	Rs. 	160000.0	249		Sports Naked
+612	 Motorhead X Torque 250	2020	Rs. 	160000.0	250		Dirt
+613	 TVS Ntorq 125 Disc	2019	Rs. 	160000.0	125		Scooter
+614	 Bajaj Pulsar 220F	2017	Rs. 	160000.0	220		Sports
+615	 TVS Ntorq 125 Race Edition FI BSVI	2020	Rs. 	160000.0	125		Scooter
+616	 Aprilia SR 150	2021	Rs. 	160000.0	150		Scooter
+617	 Honda Aviator	2021	Rs. 	160000.0	110		Scooter
+618	 Honda CB Shine SP	2022	Rs. 	160000.0	124		Commuter
+619	 Honda Grazia BS4	2020	Rs. 	160000.0	124		Scooter
+620	 Bajaj Pulsar NS 200 ABS	2020	Rs. 	160000.0	200		Sports Naked
+621	 Yamaha FZS V2	2018	Rs. 	160000.0	149		Sports Naked
+622	 TVS Apache RTR 160 4V	2019	Rs. 	160000.0	160		Sports
+623	 Honda CB Shine	2019	Rs. 	160000.0	124		Commuter
+624	 Aprilia Storm 125	2021	Rs. 	160000.0	125		Scooter
+625	 TVS Apache RTR 160 4V	2021	Rs. 	160000.0	160		Sports
+626	 Bajaj Pulsar NS 200	2018	Rs. 	160000.0	200		Sports Naked
+627	 Bajaj Pulsar 150TD	2019	Rs. 	160000.0	150		Commuter
+628	 Hero Destini 125	2018	Rs. 	160000.0	125		Scooter
+629	 Honda Aviator	2020	Rs. 	160000.0	110		Scooter
+630	 Honda Grazia BS4	2020	Rs. 	160000.0	124		Scooter
+631	 Honda Aviator	2020	Rs. 	160000.0	110		Scooter
+632	 Honda Grazia BS4	2020	Rs. 	160000.0	124		Scooter
+633	 Bajaj Pulsar 220F	2016	Rs. 	160000.0	220		Sports
+634	 Bajaj Pulsar 150	2019	Rs. 	160000.0	150		Sports Naked
+635	 Yamaha R15 V2	2014	Rs. 	160000.0	149		Sports
+636	 Aprilia Storm 125	2021	Rs. 	160000.0	125		Scooter
+637	 TVS Ntorq 125 Race Edition FI BSVI	2020	Rs. 	160000.0	125		Scooter
+638	 Aprilia SR 150	2020	Rs. 	160000.0	150		Scooter
+639	 Honda CB Shine SP	2020	Rs. 	160000.0	124		Commuter
+640	 Aprilia SR 150	2021	Rs. 	160000.0	150		Scooter
+641	 Honda CB Hornet 160R	2018	Rs. 	160000.0	163		Sports Naked
+642	 Bajaj Pulsar 150	2016	Rs. 	160000.0	150		Sports Naked
+643	 TVS Ntorq 125 Disc	2022	Rs. 	160000.0	125		Scooter
+644	 Yamaha FZ V2	2019	Rs. 	160000.0	149		Sports Naked
+645	 Hero Super Splendor	2021	Rs. 	162000.0	125		Commuter
+646	 Yamaha FZ 25	2017	Rs. 	164999.0	249		Sports Naked
+647	 Yamaha FZ 25	2018	Rs. 	165000.0	249		Sports Naked
+648	 Bajaj Pulsar NS 200	2017	Rs. 	165000.0	200		Sports Naked
+649	 TVS Ntorq 125 Drum	2019	Rs. 	165000.0	125		Scooter
+650	 Bajaj Pulsar 220F	2018	Rs. 	165000.0	220		Sports
+651	 Bajaj Pulsar 180	2012	Rs. 	165000.0	179		Sports
+652	 TVS Ntorq 125 Drum	2023	Rs. 	165000.0	125		Scooter
+653	 TVS Ntorq 125 Disc	2020	Rs. 	165000.0	125		Scooter
+654	 Honda Dio	2020	Rs. 	165000.0	110		Scooter
+655	 TVS Apache RTR 200 4V	2017	Rs. 	165000.0	198		Sports
+656	 Bajaj Pulsar NS 200	2019	Rs. 	165000.0	200		Sports Naked
+657	 Bajaj Pulsar 150	2019	Rs. 	165000.0	150		Sports Naked
+658	 Yamaha FZS V2	2017	Rs. 	165000.0	149		Sports Naked
+659	 Yamaha FZS V2	2018	Rs. 	165000.0	149		Sports Naked
+660	 TVS Ntorq 125 Super Squad	2021	Rs. 	165000.0	125		Scooter
+661	 Bajaj Pulsar NS 200	2017	Rs. 	165000.0	200		Sports Naked
+662	 Bajaj Pulsar 180	2012	Rs. 	165000.0	179		Sports
+663	 Yamaha FZ 25	2017	Rs. 	165000.0	249		Sports Naked
+664	 Yamaha YZF R3	2017	Rs. 	165000.0	321		Sports
+665	 Bajaj Pulsar NS 200	2018	Rs. 	165000.0	200		Sports Naked
+666	 Bajaj Pulsar 150TD	2022	Rs. 	165990.0	150		Commuter
+667	 Motorhead Sports 250	2022	Rs. 	169000.0	250		Sports
+668	 Royal Enfield Classic 350	2019	Rs. 	170000.0	346		Cruiser
+669	 Hero Super Splendor	2022	Rs. 	170000.0	125		Commuter
+670	 Bajaj Pulsar NS 200	2017	Rs. 	170000.0	200		Sports Naked
+671	 TVS Ntorq 125 Disc	2021	Rs. 	170000.0	125		Scooter
+672	 Honda Grazia BS4	2023	Rs. 	170000.0	124		Scooter
+673	 Aprilia Storm 125	2024	Rs. 	170000.0	125		Scooter
+674	 Hero XPulse 200	2021	Rs. 	170000.0	199		Dirt
+675	 TVS Ntorq 125 Disc	2021	Rs. 	170000.0	125		Scooter
+676	 Bajaj Avenger 220 Cruise	2017	Rs. 	170000.0	220		Cruiser
+677	 Hero XPulse 200T	2020	Rs. 	170000.0	199		Dirt
+678	 Motorhead Sports 250	2019	Rs. 	170000.0	250		Sports
+679	 TVS Apache RTR 160 4V	2019	Rs. 	170000.0	160		Sports
+680	 Bajaj Pulsar 220F	2017	Rs. 	170000.0	220		Sports
+681	 Yamaha FZ 25	2017	Rs. 	170000.0	249		Sports Naked
+682	 Royal Enfield Classic 350	2019	Rs. 	170000.0	346		Cruiser
+683	 Yamaha Fascino	2018	Rs. 	170000.0	113		Scooter
+684	 Yamaha Ray ZR	2021	Rs. 	170000.0	113		Scooter
+685	 Benelli TNT 150i	2021	Rs. 	170000.0	148		Sports Naked
+686	 Yamaha FZS V3	2019	Rs. 	170000.0	149		Sports Naked
+687	 Benelli TNT 150i	2022	Rs. 	170000.0	148		Sports Naked
+688	 Bajaj Pulsar NS 200	2018	Rs. 	170000.0	200		Sports Naked
+689	 Hero Super Splendor	2022	Rs. 	170000.0	125		Commuter
+690	 Bajaj Pulsar 180	2021	Rs. 	170000.0	179		Sports
+691	 Honda Grazia BS4	2023	Rs. 	170000.0	124		Scooter
+692	 Honda Dio	2023	Rs. 	170000.0	110		Scooter
+693	 TVS Ntorq 125 Drum	2023	Rs. 	170000.0	125		Scooter
+694	 Motorhead MH 200X	2020	Rs. 	170000.0	200		Dirt
+695	 TVS Ntorq 125 Disc	2021	Rs. 	170000.0	125		Scooter
+696	 Bajaj Avenger 220 Cruise	2017	Rs. 	170000.0	220		Cruiser
+697	 Benelli TNT 150i	2022	Rs. 	170000.0	148		Sports Naked
+698	 Hero Super Splendor	2022	Rs. 	170000.0	125		Commuter
+699	 Bajaj Pulsar 180	2021	Rs. 	170000.0	179		Sports
+700	 Bajaj Pulsar 150	2021	Rs. 	172000.0	150		Sports Naked
+701	 Yamaha FZ 25	2017	Rs. 	172000.0	249		Sports Naked
+702	 Yamaha Ray ZR 125 FI	2020	Rs. 	173000.0	125		Scooter
+703	 Honda Aviator	2021	Rs. 	174999.0	110		Scooter
+704	 Bajaj Pulsar NS 200	2018	Rs. 	174999.0	200		Sports Naked
+705	 Honda Dio	2022	Rs. 	175000.0	110		Scooter
+706	 Bajaj Pulsar NS 200	2018	Rs. 	175000.0	200		Sports Naked
+707	 TVS Raider 125	2022	Rs. 	175000.0	125		Commuter
+708	 Yamaha FZS V3	2019	Rs. 	175000.0	149		Sports Naked
+709	 Hero XPulse 200	2021	Rs. 	175000.0	199		Dirt
+710	 Yamaha FZS V2	2017	Rs. 	175000.0	149		Sports Naked
+711	 Yamaha FZS V3	2020	Rs. 	175000.0	149		Sports Naked
+712	 TVS Ntorq 125 Disc	2020	Rs. 	175000.0	125		Scooter
+713	 Honda Grazia BS4	2021	Rs. 	175000.0	124		Scooter
+714	 Bajaj Pulsar NS 200	2018	Rs. 	175000.0	200		Sports Naked
+715	 Bajaj Pulsar NS 200	2018	Rs. 	175000.0	200		Sports Naked
+716	 Bajaj Pulsar NS 200	2019	Rs. 	175000.0	200		Sports Naked
+717	 Yamaha FZS V3	2019	Rs. 	175000.0	149		Sports Naked
+718	 TVS Ntorq 125 Race Edition	2021	Rs. 	175000.0	125		Scooter
+719	 Hero XPulse 200	2021	Rs. 	175000.0	199		Dirt
+720	 Aprilia SR 150	2021	Rs. 	178000.0	150		Scooter
+721	 Honda Grazia BS4	2021	Rs. 	179000.0	124		Scooter
+722	 TVS Raider 125	2022	Rs. 	179999.0	125		Commuter
+723	 Bajaj Pulsar 150	2020	Rs. 	180000.0	150		Sports Naked
+724	 TVS Ntorq 125 Race Edition	2020	Rs. 	180000.0	125		Scooter
+725	 Bajaj Pulsar 150	2023	Rs. 	180000.0	150		Sports Naked
+726	 TVS Apache RTR 160 4V	2019	Rs. 	180000.0	160		Sports
+727	 Bajaj NS 200 FI ABS	2021	Rs. 	180000.0	200		Sports Naked
+728	 Benelli TNT 150i	2019	Rs. 	180000.0	148		Sports Naked
+729	 Bajaj Pulsar NS 200	2018	Rs. 	180000.0	200		Sports Naked
+730	 Yamaha Ray ZR 125 FI	2021	Rs. 	180000.0	125		Scooter
+731	 Bajaj Pulsar 150	2020	Rs. 	180000.0	150		Sports Naked
+732	 Suzuki Gixxer 150	2020	Rs. 	180000.0	155		Sports
+733	 Bajaj Pulsar 150TD	2019	Rs. 	180000.0	150		Commuter
+734	 Bajaj Pulsar 150	2021	Rs. 	180000.0	150		Sports Naked
+735	 Yamaha FZS V3	2019	Rs. 	180000.0	149		Sports Naked
+736	 Bajaj Platina 100 ES	2023	Rs. 	180000.0	100		Commuter
+737	 Royal Enfield Classic 350	2019	Rs. 	180000.0	346		Cruiser
+738	 Bajaj Pulsar NS 200	2017	Rs. 	180000.0	200		Sports Naked
+739	 Honda Dio	2021	Rs. 	180000.0	110		Scooter
+740	 Bajaj Pulsar 150	2018	Rs. 	180000.0	150		Sports Naked
+741	 Bajaj Pulsar 220F	2017	Rs. 	180000.0	220		Sports
+742	 Aprilia Storm 125	2021	Rs. 	180000.0	125		Scooter
+743	 Hartford VR 220H	2018	Rs. 	180000.0	223		Commuter
+744	 Vespa Notte	2021	Rs. 	180000.0	125		Scooter
+745	 Yamaha Ray ZR 125 FI	2021	Rs. 	180000.0	125		Scooter
+746	 Yamaha FZ V2	2020	Rs. 	180000.0	149		Sports Naked
+747	 Suzuki Gixxer SF 150	2020	Rs. 	180000.0	155		Sports
+748	 Hartford VR150H	2016	Rs. 	180000.0	150		Commuter
+749	 Bajaj Pulsar 150	2023	Rs. 	180000.0	150		Sports Naked
+750	 Bajaj NS 200 FI ABS	2021	Rs. 	180000.0	200		Sports Naked
+751	 KTM Duke 200	2014	Rs. 	180000.0	200		Sports Naked
+752	 CFMoto 150NK	2021	Rs. 	180000.0	150		Sports Naked
+753	 Honda Grazia BS4	2021	Rs. 	180000.0	124		Scooter
+754	 Yamaha FZS V3	2024	Rs. 	180000.0	149		Sports Naked
+755	 Hero Super Splendor	2021	Rs. 	180000.0	125		Commuter
+756	 Hero XPulse 200	2020	Rs. 	180000.0	199		Dirt
+757	 Bajaj Pulsar 220F	2017	Rs. 	180000.0	220		Sports
+758	 Honda CB Shine	2021	Rs. 	180000.0	124		Commuter
+759	 Yamaha FZS V2	2020	Rs. 	180000.0	149		Sports Naked
+760	 Yamaha FZS V3	2024	Rs. 	180000.0	149		Sports Naked
+761	 Yamaha FZS V2	2019	Rs. 	180000.0	149		Sports Naked
+762	 TVS Apache RTR 200 4V	2019	Rs. 	180000.0	198		Sports
+763	 Bajaj Pulsar NS 200	2019	Rs. 	180000.0	200		Sports Naked
+764	 Bajaj Pulsar 150TD	2019	Rs. 	180000.0	150		Commuter
+765	 Yamaha FZ V2	2017	Rs. 	180000.0	149		Sports Naked
+766	 TVS Ntorq 125 Race Edition	2021	Rs. 	180000.0	125		Scooter
+767	 TVS Ntorq 125 Disc	2021	Rs. 	180000.0	125		Scooter
+768	 Bajaj Pulsar 150	2023	Rs. 	180000.0	150		Sports Naked
+769	 Motorhead MH 200X	2020	Rs. 	180000.0	200		Dirt
+770	 Yamaha Ray ZR Street Rally 125 FI	2021	Rs. 	180000.0	125		Scooter
+771	 Bajaj Pulsar NS 200 ABS	2019	Rs. 	180000.0	200		Sports Naked
+772	 ItalicaMoto Formula 150	2022	Rs. 	185000.0	150		Scooter
+773	 TVS Ntorq 125 Super Squad	2021	Rs. 	185000.0	125		Scooter
+774	 KTM Duke 200	2014	Rs. 	185000.0	200		Sports Naked
+775	 TVS Ntorq 125 Super Squad	2021	Rs. 	185000.0	125		Scooter
+776	 Honda CB Shine	2019	Rs. 	185000.0	124		Commuter
+777	 TVS Apache RTR 200 4V	2020	Rs. 	185000.0	198		Sports
+778	 TVS Ntorq 125 Super Squad	2021	Rs. 	185000.0	125		Scooter
+779	 TVS Apache RTR 160 2V	2021	Rs. 	185000.0	160		Sports
+780	 TVS Raider 125	2022	Rs. 	185000.0	125		Commuter
+781	 TVS Raider 125	2023	Rs. 	185000.0	125		Commuter
+782	 KTM Duke 200	2013	Rs. 	185000.0	200		Sports Naked
+783	 Honda Grazia BS4	2021	Rs. 	185000.0	124		Scooter
+784	 KTM RC 200	2014	Rs. 	185000.0	200		Sports
+785	 Yamaha Ray ZR 125 FI	2020	Rs. 	189000.0	125		Scooter
+786	 Yamaha FZS V3	2019	Rs. 	190000.0	149		Sports Naked
+787	 Honda CB Shine SP	2019	Rs. 	190000.0	124		Commuter
+788	 Bajaj Pulsar NS 200 ABS	2020	Rs. 	190000.0	200		Sports Naked
+789	 Yamaha Ray ZR 125 FI	2020	Rs. 	190000.0	125		Scooter
+790	 Bajaj Pulsar 220F	2016	Rs. 	190000.0	220		Sports
+791	 Honda Dio	2022	Rs. 	190000.0	110		Scooter
+792	 Motorhead Tekken 250	2022	Rs. 	190000.0	250		Dirt
+793	 Yamaha FZ 25	2018	Rs. 	190000.0	249		Sports Naked
+794	 Bajaj Pulsar 150	2021	Rs. 	190000.0	150		Sports Naked
+795	 TVS Raider 125	2022	Rs. 	190000.0	125		Commuter
+796	 Suzuki Gixxer 150	2017	Rs. 	190000.0	155		Sports
+797	 Suzuki Gixxer 150	2021	Rs. 	190000.0	155		Sports
+798	 Aprilia SR 150	2018	Rs. 	190000.0	150		Scooter
+799	 Aprilia SR 150	2020	Rs. 	190000.0	150		Scooter
+800	 TVS Ntorq 125 Race Edition	2021	Rs. 	190000.0	125		Scooter
+801	 Yadea T9	2023	Rs. 	190000.0		2,000 	Scooter
+802	 TVS Apache RTR 160 4V	2021	Rs. 	190000.0	160		Sports
+803	 Crossfire Tracker 250	2021	Rs. 	190000.0	250		Dirt
+804	 Yamaha FZS V3	2019	Rs. 	190000.0	149		Sports Naked
+805	 KTM Duke 200	2015	Rs. 	190000.0	200		Sports Naked
+806	 Yamaha FZ V2	2020	Rs. 	190000.0	149		Sports Naked
+807	 Bajaj Avenger 220 Cruise	2019	Rs. 	190000.0	220		Cruiser
+808	 Hero XPulse 200	2019	Rs. 	190000.0	199		Dirt
+809	 Honda Grazia BS4	2023	Rs. 	190000.0	124		Scooter
+810	 Bajaj Pulsar NS 200 ABS	2020	Rs. 	190000.0	200		Sports Naked
+811	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2021	Rs. 	190000.0	200		Sports Naked
+812	 Honda Dio	2022	Rs. 	190000.0	110		Scooter
+813	 Aprilia SR 150	2018	Rs. 	190000.0	150		Scooter
+814	 Yamaha FZS V3	2019	Rs. 	190000.0	149		Sports Naked
+815	 TVS Apache RTR 160 4V	2019	Rs. 	190000.0	160		Sports
+816	 Bajaj Pulsar NS 160	2020	Rs. 	190000.0	160		Sports Naked
+817	 Yamaha FZ 25	2018	Rs. 	190000.0	249		Sports Naked
+818	 Honda CBR 250R	2013	Rs. 	190000.0	250		Sports
+819	 KTM RC 200	2015	Rs. 	193000.0	200		Sports
+820	 Yamaha FZS V3	2019	Rs. 	195000.0	149		Sports Naked
+821	 Bajaj Pulsar NS 200 ABS	2019	Rs. 	195000.0	200		Sports Naked
+822	 Aprilia Storm 125	2023	Rs. 	195000.0	125		Scooter
+823	 TVS Raider 125	2021	Rs. 	195000.0	125		Commuter
+824	 Honda Grazia BS6	2021	Rs. 	195000.0	124		Scooter
+825	 Honda Grazia BS6	2019	Rs. 	195000.0	124		Scooter
+826	 Yamaha FZS V3	2020	Rs. 	195000.0	149		Sports Naked
+827	 Bajaj Pulsar 150	2021	Rs. 	195000.0	150		Sports Naked
+828	 Bajaj Pulsar 150	2022	Rs. 	195000.0	150		Sports Naked
+829	 Honda Aviator	2022	Rs. 	195000.0	110		Scooter
+830	 TVS Apache RTR 160 4V Refresh	2020	Rs. 	195500.0	160		Sports
+831	 Bajaj Pulsar 150TD	2020	Rs. 	198500.0	150		Commuter
+832	 CFMoto 250NK	2018	Rs. 	199000.0	250		Sports Naked
+833	 Bajaj Pulsar NS 200	2019	Rs. 	199000.0	200		Sports Naked
+834	 Yamaha FZS V3	2019	Rs. 	199000.0	149		Sports Naked
+835	 Bajaj Pulsar 150	2020	Rs. 	199999.0	150		Sports Naked
+836	 Bajaj Pulsar 220F	2015	Rs. 	199999.0	220		Sports
+837	 Bajaj Pulsar NS 200	2021	Rs. 	200000.0	200		Sports Naked
+838	 Bajaj Discover 125 ST	2023	Rs. 	200000.0	125		Commuter
+839	 KTM RC 200	2017	Rs. 	200000.0	200		Sports
+840	 Honda CB Shine SP	2019	Rs. 	200000.0	124		Commuter
+841	 Bajaj Discover 125 ST	2023	Rs. 	200000.0	125		Commuter
+842	 Suzuki Gixxer 150	2020	Rs. 	200000.0	155		Sports
+843	 KTM RC 200	2017	Rs. 	200000.0	200		Sports
+844	 Honda CB Shine SP	2019	Rs. 	200000.0	124		Commuter
+845	 Bajaj Pulsar NS 200 ABS	2020	Rs. 	200000.0	200		Sports Naked
+846	 Bajaj Avenger 220 Cruise	2014	Rs. 	200000.0	220		Cruiser
+847	 Bajaj Pulsar NS 200	2017	Rs. 	200000.0	200		Sports Naked
+848	 Honda Grazia BS6	2022	Rs. 	200000.0	124		Scooter
+849	 Bajaj Pulsar NS 200	2021	Rs. 	200000.0	200		Sports Naked
+850	 Bajaj Avenger 220 Cruise	2017	Rs. 	200000.0	220		Cruiser
+851	 ItalicaMoto Formula 150	2021	Rs. 	200000.0	150		Scooter
+852	 Bajaj NS 200 FI ABS	2020	Rs. 	200000.0	200		Sports Naked
+853	 Benelli TNT 150i	2022	Rs. 	200000.0	148		Sports Naked
+854	 Suzuki Gixxer 150	2020	Rs. 	200000.0	155		Sports
+855	 Bajaj Pulsar 150TD	2022	Rs. 	200000.0	150		Commuter
+856	 Motorhead Tekken 250	2020	Rs. 	200000.0	250		Dirt
+857	 Bajaj Pulsar 150	2021	Rs. 	200000.0	150		Sports Naked
+858	 Bajaj Pulsar 220F	2019	Rs. 	200000.0	220		Sports
+859	 Bajaj Pulsar NS 125	2021	Rs. 	200000.0	125		Sports Naked
+860	 TVS Ntorq 125 Disc	2021	Rs. 	200000.0	125		Scooter
+861	 Bajaj Pulsar 150	2021	Rs. 	200000.0	150		Sports Naked
+862	 Bajaj Pulsar 150	2022	Rs. 	200000.0	150		Sports Naked
+863	 Hero Super Splendor	2022	Rs. 	200000.0	125		Commuter
+864	 Honda CB Shine SP	2019	Rs. 	200000.0	124		Commuter
+865	 Aprilia SR 150	2020	Rs. 	200000.0	150		Scooter
+866	 TVS Ntorq 125 Disc	2021	Rs. 	200000.0	125		Scooter
+867	 Kayo K6	2014	Rs. 	200000.0	250		Dirt
+868	 Suzuki Gixxer 150	2020	Rs. 	200000.0	155		Sports
+869	 Benelli TNT 150i	2022	Rs. 	200000.0	148		Sports Naked
+870	 ItalicaMoto Formula 150	2021	Rs. 	200000.0	150		Scooter
+871	 TVS Raider 125	1980	Rs. 	200000.0	125		Commuter
+872	 Bajaj Pulsar NS 200	2017	Rs. 	200000.0	200		Sports Naked
+873	 KTM RC 200	2017	Rs. 	200000.0	200		Sports
+874	 Bajaj Pulsar 220F	2020	Rs. 	200000.0	220		Sports
+875	 Bajaj Pulsar NS 125	2021	Rs. 	200000.0	125		Sports Naked
+876	 Crossfire Tracker 250	2021	Rs. 	200000.0	250		Dirt
+877	 Bajaj Pulsar 150	2021	Rs. 	200000.0	150		Sports Naked
+878	 Bajaj Pulsar NS 200	2020	Rs. 	200000.0	200		Sports Naked
+879	 Bajaj Pulsar NS 200	2021	Rs. 	200000.0	200		Sports Naked
+880	 TVS Apache RTR 160 4V	2018	Rs. 	200000.0	160		Sports
+881	 TVS Raider 125	2024	Rs. 	200000.0	125		Commuter
+882	 Bajaj Pulsar NS 200 ABS	2019	Rs. 	200000.0	200		Sports Naked
+883	 TVS Apache RTR 200 4V	2024	Rs. 	200000.0	198		Sports
+884	 Suzuki Gixxer 150	2020	Rs. 	200000.0	155		Sports
+885	 Bajaj Pulsar 220F	2019	Rs. 	200000.0	220		Sports
+886	 Bajaj Discover 125 ST	2023	Rs. 	200000.0	125		Commuter
+887	 Yamaha FZS V2	2021	Rs. 	200000.0	149		Sports Naked
+888	 Honda CB Unicorn 150	2019	Rs. 	200000.0	150		Commuter
+889	 Motorhead Tekken 250	2020	Rs. 	200000.0	250		Dirt
+890	 Kayo T4	2018	Rs. 	200000.0	250		Dirt
+891	 Honda XBlade	2018	Rs. 	200000.0	163		Sports Naked
+892	 Benelli TNT 150i	2019	Rs. 	200000.0	148		Sports Naked
+893	 TVS Apache RTR 160 4V	2020	Rs. 	200000.0	160		Sports
+894	 Bajaj Pulsar NS 200	2021	Rs. 	200000.0	200		Sports Naked
+895	 TVS Apache RTR 160 4V	2018	Rs. 	200000.0	160		Sports
+896	 Bajaj Pulsar NS 125	2021	Rs. 	200000.0	125		Sports Naked
+897	 Honda CB Shine	2018	Rs. 	200000.0	124		Commuter
+898	 Bajaj Pulsar NS 200	2020	Rs. 	200000.0	200		Sports Naked
+899	 Bajaj Pulsar 150TD	2022	Rs. 	200000.0	150		Commuter
+900	 Honda Grazia BS6	2021	Rs. 	200000.0	124		Scooter
+901	 Motorhead MH 200X	2021	Rs. 	200000.0	200		Dirt
+902	 Honda Grazia BS4	2023	Rs. 	203000.0	124		Scooter
+903	 Yamaha FZS V2	2020	Rs. 	205000.0	149		Sports Naked
+904	 Yadea E8S PRO	2023	Rs. 	205000.0		3,000 	Scooter
+905	 Suzuki Gixxer 150	2019	Rs. 	205000.0	155		Sports
+906	 Bajaj Pulsar NS 200 ABS	2020	Rs. 	205000.0	200		Sports Naked
+907	 Honda CB Unicorn 160	2018	Rs. 	205000.0	163		Commuter
+908	 Honda Dio	2024	Rs. 	205000.0	110		Scooter
+909	 Bajaj Pulsar 220F	2020	Rs. 	206000.0	220		Sports
+910	 Bajaj Pulsar 220F	2020	Rs. 	207000.0	220		Sports
+911	 TVS Raider 125	2023	Rs. 	208900.0	125		Commuter
+912	 Honda CD 110 Dream	2023	Rs. 	208900.0	110		Commuter
+913	 Honda CB Unicorn 150	2021	Rs. 	209000.0	150		Commuter
+914	 Bajaj Pulsar 125	2022	Rs. 	210000.0	125		Sports Naked
+915	 Bajaj NS 200 FI ABS	2021	Rs. 	210000.0	200		Sports Naked
+916	 TVS Ntorq 125 Drum	2023	Rs. 	210000.0	125		Scooter
+917	 Honda Grazia BS4	2021	Rs. 	210000.0	124		Scooter
+918	 Yamaha FZS V3	2019	Rs. 	210000.0	149		Sports Naked
+919	 Aprilia Storm 125	2022	Rs. 	210000.0	125		Scooter
+920	 TVS Apache RTR 200 4V	2020	Rs. 	210000.0	198		Sports
+921	 Aprilia SR 150	2021	Rs. 	210000.0	150		Scooter
+922	 Bajaj Pulsar NS 200	2021	Rs. 	210000.0	200		Sports Naked
+923	 TVS Apache RTR 160 2V	2022	Rs. 	210000.0	160		Sports
+924	 TVS Raider 125	2023	Rs. 	210000.0	125		Commuter
+925	 Hero XPulse 200	2020	Rs. 	210000.0	199		Dirt
+926	 Bajaj Pulsar 220F	2020	Rs. 	210000.0	220		Sports
+927	 Bajaj Pulsar NS 160	2021	Rs. 	210000.0	160		Sports Naked
+928	 Bajaj Pulsar 220F	2015	Rs. 	210000.0	220		Sports
+929	 Yamaha FZ V2	2021	Rs. 	210000.0	149		Sports Naked
+930	 TVS Apache RTR 160 4V	2022	Rs. 	210000.0	160		Sports
+931	 TVS Raider 125	2023	Rs. 	210000.0	125		Commuter
+932	 Honda Dio BS6	2024	Rs. 	210000.0	110		Scooter
+933	 TVS Apache RTR 160 4V Refresh	2021	Rs. 	210000.0	160		Sports
+934	 TVS Zest	2022	Rs. 	210000.0	110		Scooter
+935	 KTM RC 390	2014	Rs. 	210000.0	373		Sports
+936	 Bajaj Pulsar 220F	2020	Rs. 	210000.0	220		Sports
+937	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	210000.0	200		Sports Naked
+938	 Honda CB Shine SP	2021	Rs. 	210000.0	124		Commuter
+939	 Bajaj Dominar 400	2017	Rs. 	210000.0	400		Sports
+940	 Honda XR 125	2014	Rs. 	210000.0	124		Dirt
+941	 Bajaj Pulsar NS 200 ABS	2020	Rs. 	210000.0	200		Sports Naked
+942	 Aprilia SR 150	2020	Rs. 	210000.0	150		Scooter
+943	 Bajaj NS 200 FI ABS	2021	Rs. 	210000.0	200		Sports Naked
+944	 TVS Raider 125	2023	Rs. 	210000.0	125		Commuter
+945	 Bajaj Pulsar 150	2021	Rs. 	210000.0	150		Sports Naked
+946	 Yamaha Ray ZR 125 FI	2021	Rs. 	211000.0	125		Scooter
+947	 Bajaj Pulsar NS 160	2022	Rs. 	212000.0	160		Sports Naked
+948	 Hero XPulse 200	2020	Rs. 	212000.0	199		Dirt
+949	 Hero Super Splendor	2021	Rs. 	213000.0	125		Commuter
+950	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	215000.0	200		Sports Naked
+951	 TARO Imola 150	2022	Rs. 	215000.0	150		Sports
+952	 TVS Apache RTR 200 4V	2020	Rs. 	215000.0	198		Sports
+953	 Bajaj Pulsar NS 200	2021	Rs. 	215000.0	200		Sports Naked
+954	 Bajaj Pulsar 150TD	2022	Rs. 	215000.0	150		Commuter
+955	 Aprilia SR 150	2021	Rs. 	215000.0	150		Scooter
+956	 Bajaj Pulsar 220F	2020	Rs. 	215999.0	220		Sports
+957	 Honda CB Hornet 160R	2019	Rs. 	218000.0	163		Sports Naked
+958	 Suzuki Hayate EP	2022	Rs. 	219900.0	113		Commuter
+959	 Yamaha Ray Z 113	2023	Rs. 	219900.0	113		Scooter
+960	 Bajaj Pulsar NS 125	2023	Rs. 	220000.0	125		Sports Naked
+961	 Hero XPulse 200	2017	Rs. 	220000.0	199		Dirt
+962	 Hero XPulse 200	2021	Rs. 	220000.0	199		Dirt
+963	 Yamaha FZS V3	2021	Rs. 	220000.0	149		Sports Naked
+964	 KTM Duke 200	2015	Rs. 	220000.0	200		Sports Naked
+965	 TVS Raider 125	2022	Rs. 	220000.0	125		Commuter
+966	 Bajaj Pulsar 220F	2020	Rs. 	220000.0	220		Sports
+967	 Hero XPulse 200	2017	Rs. 	220000.0	199		Dirt
+968	 TVS Apache RTR 200 4V	2021	Rs. 	220000.0	198		Sports
+969	 CFMoto 250NK	2018	Rs. 	220000.0	250		Sports Naked
+970	 Yamaha FZ 25	2018	Rs. 	220000.0	249		Sports Naked
+971	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	220000.0	200		Sports Naked
+972	 Bajaj Pulsar NS 125	2022	Rs. 	220000.0	125		Sports Naked
+973	 Hero XPulse 200	2021	Rs. 	220000.0	199		Dirt
+974	 Royal Enfield Classic 350	2012	Rs. 	220000.0	346		Cruiser
+975	 TVS Raider 125	2023	Rs. 	220000.0	125		Commuter
+976	 Bajaj Pulsar NS 200 ABS	2020	Rs. 	220000.0	200		Sports Naked
+977	 TVS Raider 125	2024	Rs. 	220000.0	125		Commuter
+978	 Yamaha FZS V2	2019	Rs. 	220000.0	149		Sports Naked
+979	 Yamaha FZ 25	2019	Rs. 	220000.0	249		Sports Naked
+980	 KTM Duke 200	2012	Rs. 	220000.0	200		Sports Naked
+981	 TVS Raider 125	2024	Rs. 	220000.0	125		Commuter
+982	 Hero XPulse 200	2020	Rs. 	220000.0	199		Dirt
+983	 CFMoto 250NK	2018	Rs. 	220000.0	250		Sports Naked
+984	 TVS Raider 125	2023	Rs. 	220000.0	125		Commuter
+985	 Bajaj NS 200 FI ABS	2021	Rs. 	220000.0	200		Sports Naked
+986	 TVS Apache RTR 200 4V	2018	Rs. 	220000.0	198		Sports
+987	 Yamaha FZ 25	2019	Rs. 	220000.0	249		Sports Naked
+988	 Bajaj Pulsar NS 200	2022	Rs. 	220000.0	200		Sports Naked
+989	 Yamaha FZS V3	2020	Rs. 	220000.0	149		Sports Naked
+990	 Bajaj NS 200 FI ABS	2021	Rs. 	220000.0	200		Sports Naked
+991	 TVS Apache RTR 200 4V	2021	Rs. 	220000.0	198		Sports
+992	 Yamaha FZS V3	2020	Rs. 	220000.0	149		Sports Naked
+993	 TVS Apache RTR 160 4V	2021	Rs. 	220000.0	160		Sports
+994	 Hero XPulse 200	2020	Rs. 	220000.0	199		Dirt
+995	 Yamaha Ray ZR Street Rally 125 FI	2024	Rs. 	220000.0	125		Scooter
+996	 Yamaha R15 V3	2019	Rs. 	222000.0	155		Sports
+997	 Aprilia SR 150	2021	Rs. 	222222.0	150		Scooter
+998	 TVS Apache RTR 160 4V	2022	Rs. 	225000.0	160		Sports
+999	 TVS Ntorq 125 Race Edition FI BSVI	2022	Rs. 	225000.0	125		Scooter
+1000	 Bajaj NS 200 FI ABS	2020	Rs. 	225000.0	200		Sports Naked
+1001	 Bajaj NS 200 FI ABS	2020	Rs. 	225000.0	200		Sports Naked
+1002	 Bajaj Pulsar NS 200 ABS	2019	Rs. 	225000.0	200		Sports Naked
+1003	 Bajaj Pulsar 220F	2018	Rs. 	225000.0	220		Sports
+1004	 Yamaha FZS V3	2020	Rs. 	225000.0	149		Sports Naked
+1005	 Bajaj NS 200 FI ABS	2021	Rs. 	225000.0	200		Sports Naked
+1006	 CFMoto 250NK	2018	Rs. 	225000.0	250		Sports Naked
+1007	 Honda Aviator	2022	Rs. 	225000.0	110		Scooter
+1008	 Bajaj Pulsar NS 200 ABS	2020	Rs. 	225000.0	200		Sports Naked
+1009	 TVS Apache RTR 200 4V	2021	Rs. 	225000.0	198		Sports
+1010	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	225000.0	200		Sports Naked
+1011	 TVS Apache RTR 160 4V	2022	Rs. 	225000.0	160		Sports
+1012	 Yamaha FZ V2	2021	Rs. 	225000.0	149		Sports Naked
+1013	 Hero Maestro Edge	2023	Rs. 	225500.0	111		Scooter
+1014	 Bajaj Pulsar 150	2022	Rs. 	227000.0	150		Sports Naked
+1015	 Yamaha R15 V3	2019	Rs. 	229000.0	155		Sports
+1016	 Yamaha FZ V2	2021	Rs. 	230000.0	149		Sports Naked
+1017	 Bajaj Pulsar NS 200 ABS	2020	Rs. 	230000.0	200		Sports Naked
+1018	 Yamaha FZ V2	2021	Rs. 	230000.0	149		Sports Naked
+1019	 Bajaj Avenger 200	2021	Rs. 	230000.0	200		Cruiser
+1020	 Motorhead Scrambler 250	2021	Rs. 	230000.0	250		Scrambler
+1021	 Bajaj Pulsar 150TD	2022	Rs. 	230000.0	150		Commuter
+1022	 TVS Apache RTR 160 4V	2021	Rs. 	230000.0	160		Sports
+1023	 Yamaha FZ V2	2021	Rs. 	230000.0	149		Sports Naked
+1024	 Yamaha R15 V3	2020	Rs. 	230000.0	155		Sports
+1025	 Yamaha FZ V2	2021	Rs. 	230000.0	149		Sports Naked
+1026	 Yamaha FZ V2	2021	Rs. 	230000.0	149		Sports Naked
+1027	 TVS Apache RTR 160 4V	2021	Rs. 	230000.0	160		Sports
+1028	 TAILG Lion	2022	Rs. 	230000.0		800	Scooter
+1029	 CFMoto 250NK	2018	Rs. 	230000.0	250		Sports Naked
+1030	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	230000.0	200		Sports Naked
+1031	 Yamaha FZS V3	2021	Rs. 	230000.0	149		Sports Naked
+1032	 CFMoto 250NK	2019	Rs. 	230000.0	250		Sports Naked
+1033	 Yamaha Ray ZR Street Rally 125 FI	2021	Rs. 	230000.0	125		Scooter
+1034	 Yamaha R15 V3	2018	Rs. 	230000.0	155		Sports
+1035	 Hero XPulse 200	2020	Rs. 	230000.0	199		Dirt
+1036	 KTM Duke 200	2014	Rs. 	230000.0	200		Sports Naked
+1037	 Yamaha FZS V3	2021	Rs. 	230000.0	149		Sports Naked
+1038	 TVS Ntorq 125 Race Edition FI BSVI	2023	Rs. 	230000.0	125		Scooter
+1039	 Bajaj Pulsar NS 160	2022	Rs. 	230000.0	160		Sports Naked
+1040	 CFMoto 250NK	2018	Rs. 	230000.0	250		Sports Naked
+1041	 Hero Super Splendor	2023	Rs. 	231000.0	125		Commuter
+1042	 Honda Dio	2023	Rs. 	231900.0	110		Scooter
+1043	 Bajaj Pulsar NS 200	2021	Rs. 	232000.0	200		Sports Naked
+1044	 Yamaha R15 V3	2019	Rs. 	232000.0	155		Sports
+1045	 Hero Super Splendor	2024	Rs. 	232900.0	125		Commuter
+1046	 Yamaha FZS V3	2021	Rs. 	234998.0	149		Sports Naked
+1047	 Bajaj Pulsar 220F	2021	Rs. 	235000.0	220		Sports
+1048	 Bajaj Pulsar 220F	2021	Rs. 	235000.0	220		Sports
+1049	 Bajaj Pulsar NS 200 ABS	2019	Rs. 	235000.0	200		Sports Naked
+1050	 Bajaj Pulsar 220F	2022	Rs. 	235000.0	220		Sports
+1051	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	235000.0	200		Sports Naked
+1052	 ItalicaMoto Formula 150	2022	Rs. 	235000.0	150		Scooter
+1053	 Bajaj Pulsar 150	2018	Rs. 	235000.0	150		Sports Naked
+1054	 Bajaj Pulsar 150	2025	Rs. 	235000.0	150		Sports Naked
+1055	 Yamaha FZS V2	2021	Rs. 	235000.0	149		Sports Naked
+1056	 Bajaj NS 200 FI ABS	2020	Rs. 	235000.0	200		Sports Naked
+1057	 Honda Activa	2023	Rs. 	235900.0	110		Scooter
+1058	 TVS Ntorq 125 Drum	2023	Rs. 	235900.0	125		Scooter
+1059	 Bajaj Discover 125	2023	Rs. 	238900.0	125		Commuter
+1060	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	239000.0	200		Sports Naked
+1061	 Honda CB Shine	2022	Rs. 	240000.0	124		Commuter
+1062	 Suzuki Avenis 125	2022	Rs. 	240000.0	124		Scooter
+1063	 TVS Apache RTR 160 4V Refresh	2021	Rs. 	240000.0	160		Sports
+1064	 Crossfire GR7 250	2019	Rs. 	240000.0	250		Dirt
+1065	 Yamaha FZS V3	2022	Rs. 	240000.0	149		Sports Naked
+1066	 Crossfire GR7 250	2019	Rs. 	240000.0	250		Dirt
+1067	 Bajaj Pulsar 150	2021	Rs. 	240000.0	150		Sports Naked
+1068	 TVS Ntorq 125 Race XP	2022	Rs. 	240000.0	125		Scooter
+1069	 Aprilia SR 150	2021	Rs. 	240000.0	150		Scooter
+1070	 Crossfire GR7 250	2019	Rs. 	240000.0	250		Dirt
+1071	 Hero XPulse 200	2020	Rs. 	240000.0	199		Dirt
+1072	 TVS Ntorq 125 Race XP	2023	Rs. 	240000.0	125		Scooter
+1073	 Yamaha FZ V2	2021	Rs. 	240000.0	149		Sports Naked
+1074	 TVS Apache RTR 200 4V	2021	Rs. 	240000.0	198		Sports
+1075	 KTM RC 200	2017	Rs. 	240000.0	200		Sports
+1076	 Bajaj NS 200 FI ABS	2021	Rs. 	240000.0	200		Sports Naked
+1077	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2020	Rs. 	240000.0	200		Sports Naked
+1078	 TVS Apache RTR 200 4V	2022	Rs. 	240000.0	198		Sports
+1079	 Bajaj Pulsar 150	2023	Rs. 	240000.0	150		Sports Naked
+1080	 Bajaj Pulsar 220F	2021	Rs. 	240000.0	220		Sports
+1081	 KTM Duke 200	2015	Rs. 	240000.0	200		Sports Naked
+1082	 Vespa Elegante	2022	Rs. 	245000.0	150		Scooter
+1083	 Yamaha Ray ZR Street Rally 125 FI	2023	Rs. 	245000.0	125		Scooter
+1084	 Hero XPulse 200	2021	Rs. 	245000.0	199		Dirt
+1085	 Crossfire XZ 250R	2016	Rs. 	245000.0	250		Dirt
+1086	 Bajaj Pulsar 150	2022	Rs. 	245000.0	150		Sports Naked
+1087	 Bajaj Pulsar 220F	2021	Rs. 	245000.0	220		Sports
+1088	 Yamaha R15 V3	2019	Rs. 	245000.0	155		Sports
+1089	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	245000.0	200		Sports Naked
+1090	 Bajaj Pulsar NS 200	2022	Rs. 	245000.0	200		Sports Naked
+1091	 Bajaj Pulsar 150	2023	Rs. 	245000.0	150		Sports Naked
+1092	 TVS Ntorq 125 Disc	2021	Rs. 	245000.0	125		Scooter
+1093	 Suzuki Gixxer 250	2019	Rs. 	245000.0	249		Sports
+1094	 Hero XPulse 200	2021	Rs. 	245000.0	199		Dirt
+1095	 Yamaha R15 V3	2019	Rs. 	247000.0	155		Sports
+1096	 Bajaj Pulsar 220F	2021	Rs. 	248000.0	220		Sports
+1097	 Yamaha FZS V3	2021	Rs. 	249000.0	149		Sports Naked
+1098	 TVS Apache RTR 200 4V	2021	Rs. 	250000.0	198		Sports
+1099	 TVS Apache RTR 200 4V	2021	Rs. 	250000.0	198		Sports
+1100	 Yamaha Ray ZR 125 FI	2020	Rs. 	250000.0	125		Scooter
+1101	 Bajaj Dominar 400	2017	Rs. 	250000.0	400		Sports
+1102	 Suzuki Gixxer 150	2022	Rs. 	250000.0	155		Sports
+1103	 Asian Beast Hyper X	2016	Rs. 	250000.0	250		Commuter
+1104	 TVS Ntorq 125 Race Edition FI BSVI	2022	Rs. 	250000.0	125		Scooter
+1105	 KTM Duke 200	2013	Rs. 	250000.0	200		Sports Naked
+1106	 Hero XPulse 200	2021	Rs. 	250000.0	199		Dirt
+1107	 CFMoto 250NK	2019	Rs. 	250000.0	250		Sports Naked
+1108	 Yamaha Ray ZR Street Rally 125 FI	2023	Rs. 	250000.0	125		Scooter
+1109	 Suzuki Gixxer 150	2022	Rs. 	250000.0	155		Sports
+1110	 Crossfire GR7 250	2019	Rs. 	250000.0	250		Dirt
+1111	 Bajaj Pulsar 220F	2019	Rs. 	250000.0	220		Sports
+1112	 TVS Apache RTR 160 4V Refresh	2022	Rs. 	250000.0	160		Sports
+1113	 Bajaj Pulsar 220F	2023	Rs. 	250000.0	220		Sports
+1114	 Yamaha Ray ZR 125 Fi Hybrid	2023	Rs. 	250000.0	125		Scooter
+1115	 Bajaj Pulsar 220F	2021	Rs. 	250000.0	220		Sports
+1116	 Bajaj NS 200 FI ABS	2021	Rs. 	250000.0	200		Sports Naked
+1117	 Bajaj Pulsar 220F	2021	Rs. 	250000.0	220		Sports
+1118	 KTM Duke 390	2013	Rs. 	250000.0	373		Sports Naked
+1119	 TVS Apache RTR 200 4V	2021	Rs. 	250000.0	198		Sports
+1120	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	250000.0	200		Sports Naked
+1121	 TVS Apache RTR 160 2V	2022	Rs. 	250000.0	160		Sports
+1122	 Yamaha R15 V3	2019	Rs. 	250000.0	155		Sports
+1123	 Bajaj Pulsar NS 200 ABS	2022	Rs. 	250000.0	200		Sports Naked
+1124	 Bajaj NS 200 FI ABS	2020	Rs. 	250000.0	200		Sports Naked
+1125	 KTM Duke 200	2017	Rs. 	250000.0	200		Sports Naked
+1126	 Royal Enfield Bullet 350	2010	Rs. 	250000.0	346		Cruiser
+1127	 Bajaj Pulsar 150	2021	Rs. 	250000.0	150		Sports Naked
+1128	 TVS Apache RTR 160 4V	2024	Rs. 	250000.0	160		Sports
+1129	 Yamaha R15 V3	2018	Rs. 	250000.0	155		Sports
+1130	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	250000.0	200		Sports Naked
+1131	 Yamaha MT-15	2019	Rs. 	250000.0	155		Sports Naked
+1132	 Bajaj NS 200 FI ABS	2021	Rs. 	250000.0	200		Sports Naked
+1133	 Aprilia SR 150	2022	Rs. 	250000.0	150		Scooter
+1134	 Bajaj NS 200 FI ABS	2021	Rs. 	250000.0	200		Sports Naked
+1135	 TVS Apache RTR 200 4V	2022	Rs. 	250000.0	198		Sports
+1136	 Bajaj Avenger 180 Street	2010	Rs. 	250000.0	180		Cruiser
+1137	 Yamaha FZS V3	2022	Rs. 	250000.0	149		Sports Naked
+1138	 KTM Duke 200	2018	Rs. 	250000.0	200		Sports Naked
+1139	 Yamaha FZ V2	2022	Rs. 	250000.0	149		Sports Naked
+1140	 KTM Duke 200	2016	Rs. 	250000.0	200		Sports Naked
+1141	 Bajaj Pulsar NS 200 ABS	2022	Rs. 	250000.0	200		Sports Naked
+1142	 Hero XPulse 200	2020	Rs. 	250000.0	199		Dirt
+1143	 Yamaha Ray ZR 125 Fi Hybrid	2023	Rs. 	250000.0	125		Scooter
+1144	 TARO Imola 150	2022	Rs. 	250000.0	150		Sports
+1145	 Bajaj Avenger 220 Cruise	2020	Rs. 	250000.0	220		Cruiser
+1146	 KTM RC 200	2017	Rs. 	252000.0	200		Sports
+1147	 TVS Ntorq 125 Disc	2023	Rs. 	255000.0	125		Scooter
+1148	 Yamaha FZS V3	2021	Rs. 	255000.0	149		Sports Naked
+1149	 Yamaha FZS V3	2021	Rs. 	255000.0	149		Sports Naked
+1150	 Bajaj Pulsar 150	2023	Rs. 	255000.0	150		Sports Naked
+1151	 ItalicaMoto Formula 150	2023	Rs. 	255000.0	150		Scooter
+1152	 Bajaj Pulsar 150	2023	Rs. 	255000.0	150		Sports Naked
+1153	 Hero XPulse 200	2021	Rs. 	255000.0	199		Dirt
+1154	 Benelli 180S	2022	Rs. 	255000.0	175		Sports Naked
+1155	 Bajaj Pulsar 220F	2021	Rs. 	257000.0	220		Sports
+1156	 Honda Activa 125	2023	Rs. 	257900.0	124		Scooter
+1157	 CFMoto 250NK	2019	Rs. 	258000.0	250		Sports Naked
+1158	 Royal Enfield Classic 350	2013	Rs. 	259000.0	346		Cruiser
+1159	 Bajaj Discover 125	2023	Rs. 	259900.0	125		Commuter
+1160	 Bajaj Pulsar 125	2023	Rs. 	259900.0	125		Sports Naked
+1161	 Bajaj Pulsar 150	2023	Rs. 	260000.0	150		Sports Naked
+1162	 Bajaj Pulsar NS 160	2023	Rs. 	260000.0	160		Sports Naked
+1163	 Bajaj NS 200 FI ABS	2021	Rs. 	260000.0	200		Sports Naked
+1164	 Bajaj Pulsar 220F	2020	Rs. 	260000.0	220		Sports
+1165	 Yamaha FZS V2	2021	Rs. 	260000.0	149		Sports Naked
+1166	 Suzuki Gixxer 150	2020	Rs. 	260000.0	155		Sports
+1167	 TVS Apache RTR 160 2V	2023	Rs. 	260000.0	160		Sports
+1168	 Hero XPulse 200	2021	Rs. 	260000.0	199		Dirt
+1169	 KTM Duke 200	2016	Rs. 	260000.0	200		Sports Naked
+1170	 Hero XPulse 200	2021	Rs. 	260000.0	199		Dirt
+1171	 Bajaj Pulsar 150	2022	Rs. 	260000.0	150		Sports Naked
+1172	 Yamaha FZS V3	2022	Rs. 	260000.0	149		Sports Naked
+1173	 Honda Dio BS6	2024	Rs. 	260000.0	110		Scooter
+1174	 KTM Duke 200	2018	Rs. 	260000.0	200		Sports Naked
+1175	 Hero XPulse 200	2022	Rs. 	260000.0	199		Dirt
+1176	 Honda Dio	2024	Rs. 	260000.0	110		Scooter
+1177	 Bajaj Pulsar 220F	2022	Rs. 	260000.0	220		Sports
+1178	 Yamaha FZS V3	2022	Rs. 	260000.0	149		Sports Naked
+1179	 Yamaha FZS V3	2021	Rs. 	260000.0	149		Sports Naked
+1180	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	260000.0	200		Sports Naked
+1181	 Bajaj Pulsar 220F	2021	Rs. 	260000.0	220		Sports
+1182	 TVS Raider 125	2024	Rs. 	263000.0	125		Commuter
+1183	 Yamaha Ray ZR Street Rally 125 FI	2022	Rs. 	265000.0	125		Scooter
+1184	 Hero XTreme 200R	2018	Rs. 	265000.0	199		Commuter
+1185	 Hero XPulse 200	2022	Rs. 	265000.0	199		Dirt
+1186	 Suzuki Gixxer SF 250	2019	Rs. 	265000.0	249		Sports
+1187	 TVS Apache RTR 200 4V	2022	Rs. 	265000.0	198		Sports
+1188	 Bajaj Pulsar NS 200	2022	Rs. 	265000.0	200		Sports Naked
+1189	 Bajaj Pulsar NS 160	2021	Rs. 	265000.0	160		Sports Naked
+1190	 Honda CB Shine	2023	Rs. 	265900.0	124		Commuter
+1191	 Suzuki Access 125	2021	Rs. 	265900.0	124		Scooter
+1192	 TVS Raider 125	2023	Rs. 	266900.0	125		Commuter
+1193	 Hero Maestro Edge 125	2023	Rs. 	268000.0	125		Scooter
+1194	 Honda Grazia BS4	2023	Rs. 	268900.0	124		Scooter
+1195	 Honda Dio BS6	2023	Rs. 	269900.0	110		Scooter
+1196	 Bajaj NS 200 FI ABS	2021	Rs. 	270000.0	200		Sports Naked
+1197	 Bajaj NS 200 FI ABS	2021	Rs. 	270000.0	200		Sports Naked
+1198	 Aprilia SXR 160	2020	Rs. 	270000.0	160		Scooter
+1199	 Bajaj Pulsar NS 200 ABS	2022	Rs. 	270000.0	200		Sports Naked
+1200	 Bajaj Pulsar NS 200	2018	Rs. 	270000.0	200		Sports Naked
+1201	 Yamaha FZS V3	2021	Rs. 	270000.0	149		Sports Naked
+1202	 Yamaha Ray ZR 125 Fi Hybrid	2024	Rs. 	270000.0	125		Scooter
+1203	 Hero XPulse 200	2022	Rs. 	270000.0	199		Dirt
+1204	 Bajaj NS 200 FI ABS	2022	Rs. 	270000.0	200		Sports Naked
+1205	 Bajaj Pulsar NS 200 ABS	2022	Rs. 	270000.0	200		Sports Naked
+1206	 Yamaha FZ V1	2022	Rs. 	270000.0	149		Sports Naked
+1207	 Bajaj NS 200 FI ABS	2022	Rs. 	270000.0	200		Sports Naked
+1208	 Bajaj Pulsar AS 150	2024	Rs. 	270000.0	150		Sports
+1209	 TVS Ntorq 125 Race XP	2023	Rs. 	270000.0	125		Scooter
+1210	 TVS Ntorq 125 Race XP	2023	Rs. 	270000.0	125		Scooter
+1211	 Bajaj Pulsar 220F	2023	Rs. 	270000.0	220		Sports
+1212	 TVS Ntorq 125 Disc	2023	Rs. 	271900.0	125		Scooter
+1213	 Bajaj Pulsar NS 160	2022	Rs. 	275000.0	160		Sports Naked
+1214	 Royal Enfield Classic 350	2016	Rs. 	275000.0	346		Cruiser
+1215	 Bajaj Avenger 160 Street	2021	Rs. 	275000.0	160		Cruiser
+1216	 KTM RC 200	2017	Rs. 	275000.0	200		Sports
+1217	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2021	Rs. 	275000.0	200		Sports Naked
+1218	 TVS Apache RTR 160 4V Refresh	2021	Rs. 	275000.0	160		Sports
+1219	 TVS Apache RTR 200 4V	2021	Rs. 	275000.0	198		Sports
+1220	 Honda Grazia BS6	2024	Rs. 	275000.0	124		Scooter
+1221	 Motorhead Sports 250	2022	Rs. 	275000.0	250		Sports
+1222	 Yamaha R15 V3	2019	Rs. 	275000.0	155		Sports
+1223	 Yamaha FZ V2	2021	Rs. 	275000.0	149		Sports Naked
+1224	 Vespa Elegante	2022	Rs. 	275000.0	150		Scooter
+1225	 Yamaha FZS V2	2021	Rs. 	275000.0	149		Sports Naked
+1226	 Bajaj Pulsar N250	2022	Rs. 	275000.0	250		Sports Naked
+1227	 Yamaha Ray ZR 125 Fi Hybrid	2023	Rs. 	279900.0	125		Scooter
+1228	 Motorhead X Torque 250	2021	Rs. 	280000.0	250		Dirt
+1229	 Bajaj Pulsar 220F	2022	Rs. 	280000.0	220		Sports
+1230	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2021	Rs. 	280000.0	200		Sports Naked
+1231	 Bajaj Pulsar NS 200 ABS	2022	Rs. 	280000.0	200		Sports Naked
+1232	 Yamaha MT-15	2019	Rs. 	280000.0	155		Sports Naked
+1233	 Hero XPulse 200	2021	Rs. 	280000.0	199		Dirt
+1234	 Benelli TNT 150i	2021	Rs. 	280000.0	148		Sports Naked
+1235	 TVS Apache RTR 200 4V	2018	Rs. 	280000.0	198		Sports
+1236	 Bajaj NS 200 FI ABS	2022	Rs. 	280000.0	200		Sports Naked
+1237	 Yamaha Ray ZR 125 Fi Hybrid	2024	Rs. 	280000.0	125		Scooter
+1238	 Segway E110	2022	Rs. 	280000.0		1,800 	Scooter
+1239	 Crossfire XZ 250R	2016	Rs. 	280000.0	250		Dirt
+1240	 Bajaj Pulsar 220F	2021	Rs. 	280000.0	220		Sports
+1241	 Hero XPulse 200	2021	Rs. 	280000.0	199		Dirt
+1242	 Crossfire GR7 250	2020	Rs. 	280000.0	250		Dirt
+1243	 Yamaha MT-15	2018	Rs. 	280000.0	155		Sports Naked
+1244	 Bajaj Pulsar NS 200 ABS	2022	Rs. 	280000.0	200		Sports Naked
+1245	 Suzuki Gixxer 250	2019	Rs. 	280000.0	249		Sports
+1246	 Bajaj NS 200 FI ABS	2022	Rs. 	280000.0	200		Sports Naked
+1247	 Bajaj Pulsar NS 200	2022	Rs. 	280000.0	200		Sports Naked
+1248	 Bajaj Pulsar 220F	2021	Rs. 	280000.0	220		Sports
+1249	 Yamaha FZ-X	2022	Rs. 	280000.0	149		Sports Naked
+1250	 TVS Apache RTR 200 4V	2021	Rs. 	280000.0	198		Sports
+1251	 Bajaj Pulsar 150TD	2023	Rs. 	280000.0	150		Commuter
+1252	 Bajaj NS 200 FI ABS	2022	Rs. 	280000.0	200		Sports Naked
+1253	 Royal Enfield Classic 350	2018	Rs. 	280000.0	346		Cruiser
+1254	 Bajaj Pulsar 220F	2022	Rs. 	280000.0	220		Sports
+1255	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2022	Rs. 	280000.0	200		Sports Naked
+1256	 Yamaha MT-15	2020	Rs. 	280000.0	155		Sports Naked
+1257	 Bajaj NS 200 FI ABS	2019	Rs. 	285000.0	200		Sports Naked
+1258	 Honda CB Shine SP	2024	Rs. 	285000.0	124		Commuter
+1259	 TVS Ntorq 125 Race Edition FI BSVI	2023	Rs. 	285000.0	125		Scooter
+1260	 Yamaha R15 V3	2018	Rs. 	285000.0	155		Sports
+1261	 Bajaj Pulsar 150	2023	Rs. 	285000.0	150		Sports Naked
+1262	 Bajaj Pulsar 220F	2022	Rs. 	285000.0	220		Sports
+1263	 TVS Apache RTR 200 4V	2023	Rs. 	285000.0	198		Sports
+1264	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2022	Rs. 	285000.0	200		Sports Naked
+1265	 Super Soco TC	2023	Rs. 	285000.0		3,000 	Scooter
+1266	 Bajaj Pulsar 150	2023	Rs. 	285000.0	150		Sports Naked
+1267	 Royal Enfield Classic 350	2016	Rs. 	285000.0	346		Cruiser
+1268	 Honda CB Shine SP	2023	Rs. 	286900.0	124		Commuter
+1269	 Bajaj Pulsar NS 125	2023	Rs. 	287900.0	125		Sports Naked
+1270	 Aprilia SR 150	2021	Rs. 	290000.0	150		Scooter
+1271	 Bajaj Pulsar 220F	2022	Rs. 	290000.0	220		Sports
+1272	 Bajaj NS 200 FI ABS	2022	Rs. 	290000.0	200		Sports Naked
+1273	 Bajaj Avenger 220 Cruise	2023	Rs. 	290000.0	220		Cruiser
+1274	 Bajaj Pulsar 220F	2021	Rs. 	290000.0	220		Sports
+1275	 Bajaj Pulsar 220F	2019	Rs. 	290000.0	220		Sports
+1276	 Bajaj Pulsar 220F	2021	Rs. 	290000.0	220		Sports
+1277	 Yamaha FZS V2	2024	Rs. 	290000.0	149		Sports Naked
+1278	 Yamaha FZ V2	2022	Rs. 	290000.0	149		Sports Naked
+1279	 Asian Beast AB250 V1	2021	Rs. 	290000.0	250		Commuter
+1280	 Honda Dio BS6	2024	Rs. 	290000.0	110		Scooter
+1281	 Asian Beast AB250 V1	2020	Rs. 	290000.0	250		Commuter
+1282	 TVS Apache RTR 200 4V	2020	Rs. 	290000.0	198		Sports
+1283	 Aprilia SXR 160	2023	Rs. 	290000.0	160		Scooter
+1284	 Royal Enfield Classic 350	2017	Rs. 	290000.0	346		Cruiser
+1285	 Bajaj NS 200 FI ABS	2021	Rs. 	290000.0	200		Sports Naked
+1286	 Bajaj Pulsar 150	2024	Rs. 	295000.0	150		Sports Naked
+1287	 KTM Duke 200	2018	Rs. 	295000.0	200		Sports Naked
+1288	 Bajaj Pulsar NS 200 ABS	2022	Rs. 	295000.0	200		Sports Naked
+1289	 TVS Ntorq 125 Race XP	2023	Rs. 	295000.0	125		Scooter
+1290	 TVS Ntorq 125 Race XP	2024	Rs. 	295000.0	125		Scooter
+1291	 Royal Enfield Classic 350	2015	Rs. 	295000.0	346		Cruiser
+1292	 Suzuki Burgman	2022	Rs. 	297900.0	124		Scooter
+1293	 Bajaj Pulsar 150	2023	Rs. 	298900.0	150		Sports Naked
+1294	 Bajaj Pulsar 150	2023	Rs. 	298900.0	150		Sports Naked
+1295	 Yamaha MT-15	2021	Rs. 	299000.0	155		Sports Naked
+1296	 TVS Apache RTR 160 2V	2023	Rs. 	299900.0	160		Sports
+1297	 Suzuki Avenis 125	2022	Rs. 	299900.0	124		Scooter
+1298	 Yamaha Ray ZR Street Rally 125 FI	2023	Rs. 	299900.0	125		Scooter
+1299	 Benelli Panarea 125	2023	Rs. 	299900.0	124		Scooter
+1300	 Yamaha FZ-X	2022	Rs. 	299999.0	149		Sports Naked
+1301	 TVS Ntorq 125 Race XP	2023	Rs. 	300000.0	125		Scooter
+1302	 Bajaj Pulsar NS 200 ABS	2021	Rs. 	300000.0	200		Sports Naked
+1303	 Aprilia SR 150	2023	Rs. 	300000.0	150		Scooter
+1304	 Bajaj NS 200 FI ABS	2021	Rs. 	300000.0	200		Sports Naked
+1305	 Crossfire HJ 250	2020	Rs. 	300000.0	250		Dirt
+1306	 Yamaha MT-15	2021	Rs. 	300000.0	155		Sports Naked
+1307	 Honda XR 150L	2016	Rs. 	300000.0	150		Dirt
+1308	 TVS Ntorq 125 Disc	2025	Rs. 	300000.0	125		Scooter
+1309	 Bajaj Pulsar 220F	2022	Rs. 	300000.0	220		Sports
+1310	 Aprilia SR 150	2023	Rs. 	300000.0	150		Scooter
+1311	 TVS Apache RTR 200 4V	2022	Rs. 	300000.0	198		Sports
+1312	 Hero XTreme 160R	2021	Rs. 	300000.0	163		Commuter
+1313	 Yamaha FZ 25	2018	Rs. 	300000.0	249		Sports Naked
+1314	 Bajaj Pulsar 220F	2022	Rs. 	300000.0	220		Sports
+1315	 Yamaha FZS V2	2020	Rs. 	300000.0	149		Sports Naked
+1316	 Honda XR 150L	2017	Rs. 	300000.0	150		Dirt
+1317	 Bajaj Pulsar 220F	2021	Rs. 	300000.0	220		Sports
+1318	 Jawa Yezdi Forty Two	2020	Rs. 	300000.0	293		Cruiser
+1319	 Bajaj Avenger 160 Street	2021	Rs. 	300000.0	160		Cruiser
+1320	 Hero XPulse 200 4V	2022	Rs. 	300000.0	199		Dirt
+1321	 KTM Duke 200	2018	Rs. 	300000.0	200		Sports Naked
+1322	 Bajaj NS 200 FI ABS	2022	Rs. 	300000.0	200		Sports Naked
+1323	 Yamaha MT-15	2019	Rs. 	300000.0	155		Sports Naked
+1324	 KTM Duke 200	2016	Rs. 	300000.0	200		Sports Naked
+1325	 Benelli TNT 300	2016	Rs. 	300000.0	300		Sports Naked
+1326	 Zongshen ZT6	2024	Rs. 	300000.0	200		Commuter
+1327	 CFMoto 250NK	2019	Rs. 	300000.0	250		Sports Naked
+1328	 Royal Enfield Bullet 350	2009	Rs. 	300000.0	346		Cruiser
+1329	 TVS Apache RTR 200 4V	2022	Rs. 	300000.0	198		Sports
+1330	 Yamaha R15 V3	2019	Rs. 	300000.0	155		Sports
+1331	 Bajaj Pulsar 220F	2021	Rs. 	300000.0	220		Sports
+1332	 Cross X 250R	2018	Rs. 	300000.0	250		Dirt
+1333	 Asian Beast Hyper X	2024	Rs. 	300000.0	250		Commuter
+1334	 KTM Duke 200	2017	Rs. 	300000.0	200		Sports Naked
+1335	 Bajaj Pulsar 220F	2023	Rs. 	300000.0	220		Sports
+1336	 Bajaj Pulsar 220F	2022	Rs. 	300000.0	220		Sports
+1337	 Yamaha R15 V3	2019	Rs. 	300000.0	155		Sports
+1338	 Bajaj Pulsar 220F	2019	Rs. 	300000.0	220		Sports
+1339	 Honda XR 150L	2016	Rs. 	300000.0	150		Dirt
+1340	 Bajaj NS 200 FI ABS	2022	Rs. 	300000.0	200		Sports Naked
+1341	 KTM Duke 200	2017	Rs. 	300000.0	200		Sports Naked
+1342	 Bajaj Pulsar N160	2022	Rs. 	300000.0	160		Sports Naked
+1343	 Bajaj Avenger 160 Street	2022	Rs. 	300000.0	160		Cruiser
+1344	 Bajaj Pulsar N250	2022	Rs. 	300000.0	250		Sports Naked
+1345	 Hero XPulse 200 4V	2023	Rs. 	300000.0	199		Dirt
+1346	 Honda Grazia BS6	2023	Rs. 	302900.0	124		Scooter
+1347	 Hero Hunk 150R	2023	Rs. 	303000.0	150		Commuter
+1348	 Yamaha FZ 25	2021	Rs. 	305000.0	249		Sports Naked
+1349	 Bajaj Pulsar N160	2022	Rs. 	305000.0	160		Sports Naked
+1350	 KTM Duke 200	2018	Rs. 	305000.0	200		Sports Naked
+1351	 TVS Ntorq 125 Race XP	2024	Rs. 	305000.0	125		Scooter
+1352	 TVS Ntorq 125 Race Edition FI BSVI	2023	Rs. 	305900.0	125		Scooter
+1353	 Honda CB Unicorn 150	2023	Rs. 	308900.0	150		Commuter
+1354	 Crossfire GR7 250	2019	Rs. 	310000.0	250		Dirt
+1355	 Bajaj NS 200 FI ABS	2023	Rs. 	310000.0	200		Sports Naked
+1356	 Bajaj Pulsar 220F	2023	Rs. 	310000.0	220		Sports
+1357	 Royal Enfield Classic 500	2014	Rs. 	310000.0	499		Cruiser
+1358	 Bajaj Pulsar 220F	2022	Rs. 	310000.0	220		Sports
+1359	 KTM RC 200	2018	Rs. 	310000.0	200		Sports
+1360	 Bajaj Pulsar NS 200	2022	Rs. 	310000.0	200		Sports Naked
+1361	 Yamaha R15 V3	2019	Rs. 	310000.0	155		Sports
+1362	 Hero XPulse 200 4V	2022	Rs. 	310000.0	199		Dirt
+1363	 Crossfire HJ 250	2020	Rs. 	310000.0	250		Dirt
+1364	 TVS Apache RTR 200 4V	2022	Rs. 	310000.0	198		Sports
+1365	 Bajaj Pulsar NS 200	2022	Rs. 	310000.0	200		Sports Naked
+1366	 TVS Apache RTR 200 4V	2023	Rs. 	310000.0	198		Sports
+1367	 Yamaha FZ V2	2022	Rs. 	310000.0	149		Sports Naked
+1368	 Bajaj Pulsar 220F	2022	Rs. 	315000.0	220		Sports
+1369	 Bajaj Pulsar N160	2023	Rs. 	315000.0	160		Sports Naked
+1370	 Crossfire GR7 250	2019	Rs. 	315000.0	250		Dirt
+1371	 Bajaj Pulsar NS 200 ABS	2020	Rs. 	315000.0	200		Sports Naked
+1372	 Bajaj Pulsar NS 200 ABS	2023	Rs. 	315000.0	200		Sports Naked
+1373	 Bajaj Pulsar 220F	2024	Rs. 	315000.0	220		Sports
+1374	 Benelli TNT 300	2016	Rs. 	315000.0	300		Sports Naked
+1375	 Crossfire HJ 250	2020	Rs. 	315000.0	250		Dirt
+1376	 Bajaj Dominar 400	2017	Rs. 	315000.0	400		Sports
+1377	 Crossfire Tracker 250	2021	Rs. 	315000.0	250		Dirt
+1378	 Benelli TNT 300	2016	Rs. 	319000.0	300		Sports Naked
+1379	 Hero XPulse 200 4V	2022	Rs. 	319000.0	199		Dirt
+1380	 Royal Enfield Bullet 350	2014	Rs. 	320000.0	346		Cruiser
+1381	 Royal Enfield Classic 350	2017	Rs. 	320000.0	346		Cruiser
+1382	 Royal Enfield Bullet 350	2017	Rs. 	320000.0	346		Cruiser
+1383	 TVS Apache RTR 200 4V	2021	Rs. 	320000.0	198		Sports
+1384	 Crossfire XZ 250R	2019	Rs. 	320000.0	250		Dirt
+1385	 Bajaj Pulsar 220F	2023	Rs. 	320000.0	220		Sports
+1386	 TVS Apache RTR 200 4V	2021	Rs. 	320000.0	198		Sports
+1387	 Crossfire Tracker 250	2023	Rs. 	320000.0	250		Dirt
+1388	 KTM Duke 250	2017	Rs. 	320000.0	249		Sports Naked
+1389	 Yamaha FZS V3	2022	Rs. 	320000.0	149		Sports Naked
+1390	 Benelli 302S	2016	Rs. 	320000.0	300		Sports Naked
+1391	 KTM Duke 200	2018	Rs. 	320000.0	200		Sports Naked
+1392	 TVS Ntorq 125 Race XP	2023	Rs. 	320900.0	125		Scooter
+1393	 TVS Apache RTR 160 4V	2023	Rs. 	320900.0	160		Sports
+1394	 Suzuki Gixxer 150	2023	Rs. 	325000.0	155		Sports
+1395	 Bajaj Pulsar N160	2023	Rs. 	325000.0	160		Sports Naked
+1396	 Royal Enfield Classic 500	2017	Rs. 	325000.0	499		Cruiser
+1397	 Bajaj Pulsar 220F	2022	Rs. 	325000.0	220		Sports
+1398	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2022	Rs. 	325000.0	200		Sports Naked
+1399	 Motorhead MH 200X	2021	Rs. 	325000.0	200		Dirt
+1400	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2023	Rs. 	325000.0	200		Sports Naked
+1401	 Cross X 250SE Motard	2017	Rs. 	327000.0	250		Dirt
+1402	 Honda CBR 250R	2016	Rs. 	328000.0	250		Sports
+1403	 Suzuki Intruder	2018	Rs. 	329900.0	155		Cruiser
+1404	 Crossfire HJ 250	2021	Rs. 	330000.0	250		Dirt
+1405	 Honda Dio	2024	Rs. 	330000.0	110		Scooter
+1406	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2021	Rs. 	330000.0	200		Sports Naked
+1407	 TVS Apache RTR 200 4V	2022	Rs. 	330000.0	198		Sports
+1408	 Motorhead Scrambler 250	2021	Rs. 	330000.0	250		Scrambler
+1409	 Bajaj Pulsar N250	2023	Rs. 	330000.0	250		Sports Naked
+1410	 ItalicaMoto Formula 150	2023	Rs. 	335000.0	150		Scooter
+1411	 Bajaj Pulsar 220F	2024	Rs. 	335000.0	220		Sports
+1412	 Benelli 180S	2021	Rs. 	335000.0	175		Sports Naked
+1413	 Yamaha R15 V3	2019	Rs. 	338000.0	155		Sports
+1414	 Yamaha FZ V2	2023	Rs. 	339900.0	149		Sports Naked
+1415	 Aprilia SR 160	2024	Rs. 	340000.0	160		Commuter
+1416	 Benelli TNT 300	2016	Rs. 	340000.0	300		Sports Naked
+1417	 Royal Enfield Classic 350	2018	Rs. 	340000.0	346		Cruiser
+1418	 Honda CBR 250R	2017	Rs. 	345000.0	250		Sports
+1419	 Honda XR 150L	2019	Rs. 	345000.0	150		Dirt
+1420	 Yamaha MT-15	2021	Rs. 	345000.0	155		Sports Naked
+1421	 Bajaj Pulsar N250	2023	Rs. 	349999.0	250		Sports Naked
+1422	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2023	Rs. 	349999.0	200		Sports Naked
+1423	 Crossfire HJ 250	2021	Rs. 	350000.0	250		Dirt
+1424	 Cross X 250SE Motard	2018	Rs. 	350000.0	250		Dirt
+1425	 Bajaj Pulsar 220F	2023	Rs. 	350000.0	220		Sports
+1426	 Benelli TNT 300	2016	Rs. 	350000.0	300		Sports Naked
+1427	 Crossfire HJ 250	2021	Rs. 	350000.0	250		Dirt
+1428	 Royal Enfield Classic 350	2017	Rs. 	350000.0	346		Cruiser
+1429	 Yamaha FZ 25	2020	Rs. 	350000.0	249		Sports Naked
+1430	 Bajaj NS 200 FI ABS	2023	Rs. 	350000.0	200		Sports Naked
+1431	 Bajaj Pulsar N160	2024	Rs. 	350000.0	160		Sports Naked
+1432	 Benelli 302R	2017	Rs. 	350000.0	300		Sports
+1433	 Crossfire XZ 250R	2016	Rs. 	350000.0	250		Dirt
+1434	 TVS Apache RTR 200 4V	2022	Rs. 	350000.0	198		Sports
+1435	 Royal Enfield Classic 350	2018	Rs. 	350000.0	346		Cruiser
+1436	 KTM Duke 200	2018	Rs. 	350000.0	200		Sports Naked
+1437	 Hero XPulse 200	2021	Rs. 	350000.0	199		Dirt
+1438	 Husqvarna Svartpilen 250	2021	Rs. 	350000.0	249		Scrambler
+1439	 Yamaha MT-15	2021	Rs. 	350000.0	155		Sports Naked
+1440	 Yamaha FZS V3	2021	Rs. 	350000.0	149		Sports Naked
+1441	 Royal Enfield Bullet 350	2018	Rs. 	350000.0	346		Cruiser
+1442	 Bajaj Pulsar 220F	2023	Rs. 	350000.0	220		Sports
+1443	 Yamaha R15 V3	2021	Rs. 	350000.0	155		Sports
+1444	 Suzuki Gixxer SF 250	2021	Rs. 	350000.0	249		Sports
+1445	 Bajaj Pulsar 220F	2023	Rs. 	350000.0	220		Sports
+1446	 Yamaha R15 V4	2022	Rs. 	350000.0	155		Sports
+1447	 KTM Duke 250	2019	Rs. 	350000.0	249		Sports Naked
+1448	 Benelli TNT 300	2016	Rs. 	350000.0	300		Sports Naked
+1449	 Yamaha R15 V3	2022	Rs. 	350000.0	155		Sports
+1450	 Bajaj Pulsar 220F	2021	Rs. 	350000.0	220		Sports
+1451	 Honda CB Hornet 160R	2023	Rs. 	352900.0	163		Sports Naked
+1452	 Yamaha MT-15	2021	Rs. 	355000.0	155		Sports Naked
+1453	 TVS Apache RTR 160 4V Refresh	2023	Rs. 	359900.0	160		Sports
+1454	 Suzuki Gixxer 250	2019	Rs. 	360000.0	249		Sports
+1455	 Bajaj Pulsar N160	2023	Rs. 	360000.0	160		Sports Naked
+1456	 Yamaha FZ 25	2022	Rs. 	360000.0	249		Sports Naked
+1457	 KTM Duke 200	2021	Rs. 	360000.0	200		Sports Naked
+1458	 Yamaha FZ-X	2023	Rs. 	360000.0	149		Sports Naked
+1459	 KTM Duke 250	2017	Rs. 	360000.0	249		Sports Naked
+1460	 Suzuki Gixxer 150	2023	Rs. 	362900.0	155		Sports
+1461	 KTM Duke 200	2019	Rs. 	365000.0	200		Sports Naked
+1462	 Royal Enfield Classic 350	2018	Rs. 	365000.0	346		Cruiser
+1463	 Yamaha FZS V2	2023	Rs. 	365900.0	149		Sports Naked
+1464	 Bajaj Pulsar N160	2024	Rs. 	368000.0	160		Sports Naked
+1465	 Bajaj Avenger 160 Street	2023	Rs. 	368900.0	160		Cruiser
+1466	 Bajaj Dominar 400	2021	Rs. 	370000.0	400		Sports
+1467	 Motorhead Scrambler 250	2023	Rs. 	370000.0	250		Scrambler
+1468	 Royal Enfield Classic 350	2017	Rs. 	370000.0	346		Cruiser
+1469	 Royal Enfield Classic 350	2017	Rs. 	370000.0	346		Cruiser
+1470	 Yamaha MT-15	2021	Rs. 	370000.0	155		Sports Naked
+1471	 Bajaj Pulsar 220F	2023	Rs. 	370000.0	220		Sports
+1472	 Zontes ZT 125 U1	2023	Rs. 	370000.0	125		Commuter
+1473	 Hero XPulse 200 4V	2023	Rs. 	370000.0	199		Dirt
+1474	 Zontes ZT 125 U1	2023	Rs. 	370000.0	125		Commuter
+1475	 TVS Apache RTR 160 4V Refresh	2023	Rs. 	370000.0	160		Sports
+1476	 Crossfire Tracker 250	2023	Rs. 	370000.0	250		Dirt
+1477	 Royal Enfield Classic 500	2018	Rs. 	370000.0	499		Cruiser
+1478	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2023	Rs. 	370000.0	200		Sports Naked
+1479	 Bajaj Pulsar N160	2024	Rs. 	370000.0	160		Sports Naked
+1480	 Yamaha R15 V3	2021	Rs. 	370000.0	155		Sports
+1481	 Crossfire HJ 250	2021	Rs. 	370000.0	250		Dirt
+1482	 Zontes ZT 155 U1	2023	Rs. 	370000.0	155		Commuter
+1483	 Yamaha MT-15	2021	Rs. 	370000.0	155		Sports Naked
+1484	 Bajaj NS 200 FI ABS	2024	Rs. 	370000.0	200		Sports Naked
+1485	 Super Soco TS Street Hunter	2022	Rs. 	375000.0		2,500 	Scooter
+1486	 Yamaha MT-15	2021	Rs. 	375000.0	155		Sports Naked
+1487	 Hartford VR150H	2020	Rs. 	375000.0	150		Commuter
+1488	 Crossfire HJ 250	2020	Rs. 	375000.0	250		Dirt
+1489	 Bajaj Pulsar 220F	2022	Rs. 	375000.0	220		Sports
+1490	 Bajaj Pulsar N160	2023	Rs. 	375000.0	160		Sports Naked
+1491	 Bajaj Pulsar 220F	2023	Rs. 	375000.0	220		Sports
+1492	 Ather 450X	2024	Rs. 	379900.0		6,400 	Scooter
+1493	 Cross X 250R	2019	Rs. 	380000.0	250		Dirt
+1494	 Husqvarna Svartpilen 250	2021	Rs. 	380000.0	249		Scrambler
+1495	 Bajaj Dominar 400	2021	Rs. 	380000.0	400		Sports
+1496	 Yamaha MT-15	2023	Rs. 	380000.0	155		Sports Naked
+1497	 Bajaj Pulsar N250	2022	Rs. 	385000.0	250		Sports Naked
+1498	 SYM NH T200	2021	Rs. 	385000.0	183		Touring
+1499	 Yamaha MT-15	2022	Rs. 	385000.0	155		Sports Naked
+1500	 Bajaj Pulsar NS 160	2023	Rs. 	386900.0	160		Sports Naked
+1501	 Yamaha FZS V3	2024	Rs. 	390000.0	149		Sports Naked
+1502	 KTM Duke 200	2020	Rs. 	390000.0	200		Sports Naked
+1503	 Benelli TRK 251	2019	Rs. 	390000.0	249		Touring
+1504	 TVS Apache RTR 200 4V	2023	Rs. 	391900.0	198		Sports
+1505	 Bajaj Pulsar NS 200 ABS	2023	Rs. 	391900.0	200		Sports Naked
+1506	 Bajaj Pulsar N160	2023	Rs. 	393900.0	160		Sports Naked
+1507	 Bajaj Pulsar N160	2023	Rs. 	393900.0	160		Sports Naked
+1508	 Yamaha FZ-X	2022	Rs. 	395000.0	149		Sports Naked
+1509	 Bajaj Pulsar 220F	2023	Rs. 	399900.0	220		Sports
+1510	 Bajaj Pulsar 220F	2023	Rs. 	399900.0	220		Sports
+1511	 Royal Enfield Classic 350	2019	Rs. 	399999.0	346		Cruiser
+1512	 Husqvarna Vitpilen 250	2022	Rs. 	400000.0	249		Sports Naked
+1513	 Royal Enfield Classic 350	2019	Rs. 	400000.0	346		Cruiser
+1514	 Royal Enfield Himalayan	2016	Rs. 	400000.0	411		Touring
+1515	 TVS Apache RR 310	2019	Rs. 	400000.0	313		Sports
+1516	 KTM Duke 250	2024	Rs. 	400000.0	249		Sports Naked
+1517	 Royal Enfield Classic 350	2020	Rs. 	400000.0	346		Cruiser
+1518	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2024	Rs. 	400000.0	200		Sports Naked
+1519	 Benelli 180S	2023	Rs. 	400000.0	175		Sports Naked
+1520	 Royal Enfield Classic 350	2022	Rs. 	400000.0	346		Cruiser
+1521	 Hero XPulse 200 4V	2024	Rs. 	400000.0	199		Dirt
+1522	 KTM Duke 200	2021	Rs. 	400000.0	200		Sports Naked
+1523	 Jawa Yezdi Classic	2021	Rs. 	400000.0	293		Cruiser
+1524	 Yamaha MT-15	2023	Rs. 	400000.0	155		Sports Naked
+1525	 Honda XR 190L	2018	Rs. 	400000.0	185		Dirt
+1526	 Benelli TNT 300	2017	Rs. 	400000.0	300		Sports Naked
+1527	 Royal Enfield Bullet	2020	Rs. 	400000.0	80		Commuter
+1528	 Benelli TNT 300	2018	Rs. 	400000.0	300		Sports Naked
+1529	 Crossfire HJ 250	2021	Rs. 	400000.0	250		Dirt
+1530	 KTM RC 390	2018	Rs. 	400000.0	373		Sports
+1531	 KTM Duke 200	2022	Rs. 	401000.0	200		Sports Naked
+1532	 Bajaj Pulsar NS 200 ABS	2023	Rs. 	401900.0	200		Sports Naked
+1533	 Yamaha FZS V3	2023	Rs. 	404900.0	149		Sports Naked
+1534	 TVS Ronin	2024	Rs. 	405000.0	226		Cruiser
+1535	 Honda XR 150L	2020	Rs. 	405000.0	150		Dirt
+1536	 Royal Enfield Bullet 350	2019	Rs. 	410000.0	346		Cruiser
+1537	 Yamaha MT-15	2022	Rs. 	410000.0	155		Sports Naked
+1538	 KTM Duke 200	2022	Rs. 	410000.0	200		Sports Naked
+1539	 Yamaha MT-15	2002	Rs. 	410000.0	155		Sports Naked
+1540	 Royal Enfield Classic 350	2023	Rs. 	410000.0	346		Cruiser
+1541	 Bajaj Avenger 220 Cruise	2023	Rs. 	412900.0	220		Cruiser
+1542	 Bajaj Avenger 220 Cruise	2023	Rs. 	412900.0	220		Cruiser
+1543	 Bajaj Avenger 220 Cruise	2023	Rs. 	412900.0	220		Cruiser
+1544	 Yamaha MT-15	2022	Rs. 	415000.0	155		Sports Naked
+1545	 Yamaha MT-15	2022	Rs. 	415000.0	155		Sports Naked
+1546	 KTM Duke 200	2021	Rs. 	415000.0	200		Sports Naked
+1547	 Benelli 302S	2018	Rs. 	420000.0	300		Sports Naked
+1548	 Yamaha XTZ 150	2022	Rs. 	420000.0	149		Dirt
+1549	 Hero XPulse 200 4V	2024	Rs. 	420000.0	199		Dirt
+1550	 KTM Duke 250	2020	Rs. 	420000.0	249		Sports Naked
+1551	 Jawa Yezdi Forty Two	2021	Rs. 	420000.0	293		Cruiser
+1552	 Yamaha R15 V4	2022	Rs. 	420000.0	155		Sports
+1553	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2023	Rs. 	424900.0	200		Sports Naked
+1554	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2023	Rs. 	424900.0	200		Sports Naked
+1555	 Hero XPulse 200 4V	2024	Rs. 	425000.0	199		Dirt
+1556	 Yamaha MT-15	2023	Rs. 	425000.0	155		Sports Naked
+1557	 Royal Enfield Thunderbird X 350	2019	Rs. 	425000.0	346		Cruiser
+1558	 Royal Enfield Thunderbird X 350	2019	Rs. 	425000.0	346		Cruiser
+1559	 Jawa Yezdi Forty Two	2021	Rs. 	425000.0	293		Cruiser
+1560	 Yamaha Aerox 155	2022	Rs. 	425000.0	155		Scooter
+1561	 Yamaha R15 V4	2022	Rs. 	425000.0	155		Sports
+1562	 Bajaj Pulsar NS 200 BS6 - Dual ABS	2023	Rs. 	427000.0	200		Sports Naked
+1563	 Crossfire RM 250	2020	Rs. 	427000.0	250		Dirt
+1564	 Crossfire RM 250	2020	Rs. 	427000.0	250		Dirt
+1565	 TVS iQube	2023	Rs. 	429900.0		4,400 	Scooter
+1566	 KTM Duke 200	2023	Rs. 	430000.0	200		Sports Naked
+1567	 KTM Duke 250	2020	Rs. 	430000.0	249		Sports Naked
+1568	 Royal Enfield Classic 350	2021	Rs. 	430000.0	346		Cruiser
+1569	 Benelli TRK 251	2019	Rs. 	430000.0	249		Touring
+1570	 Royal Enfield Classic 350	2019	Rs. 	430000.0	346		Cruiser
+1571	 Royal Enfield Classic 350	2021	Rs. 	430000.0	346		Cruiser
+1572	 Royal Enfield Bullet 350	2023	Rs. 	430000.0	346		Cruiser
+1573	 Royal Enfield Classic 350	2019	Rs. 	435000.0	346		Cruiser
+1574	 KTM Duke 200	2022	Rs. 	435000.0	200		Sports Naked
+1575	 Royal Enfield Classic 350	2021	Rs. 	435000.0	346		Cruiser
+1576	 Royal Enfield Bullet 350	2019	Rs. 	435000.0	346		Cruiser
+1577	 Zontes ZT 125 U1	2023	Rs. 	439000.0	125		Commuter
+1578	 Benelli 180S	2023	Rs. 	439900.0	175		Sports Naked
+1579	 Husqvarna Vitpilen 250	2021	Rs. 	440000.0	249		Sports Naked
+1580	 Yamaha R15M	2023	Rs. 	440000.0	155		Sports
+1581	 Royal Enfield Classic 350	2021	Rs. 	440000.0	346		Cruiser
+1582	 Yamaha R15M	2023	Rs. 	440000.0	155		Sports
+1583	 Yamaha FZ-X	2023	Rs. 	445900.0	149		Sports Naked
+1584	 Royal Enfield Classic 350	2021	Rs. 	448000.0	346		Cruiser
+1585	 TVS Ronin	2023	Rs. 	449900.0	226		Cruiser
+1586	 Bajaj Pulsar N250	2023	Rs. 	449900.0	250		Sports Naked
+1587	 Bajaj Pulsar N250	2023	Rs. 	449900.0	250		Sports Naked
+1588	 TVS Ronin	2023	Rs. 	449900.0	226		Cruiser
+1589	 Cross X 250R	2019	Rs. 	450000.0	250		Dirt
+1590	 Royal Enfield Classic 350	2022	Rs. 	450000.0	346		Cruiser
+1591	 Yamaha MT-15	2023	Rs. 	450000.0	155		Sports Naked
+1592	 Yamaha MT-15	2023	Rs. 	450000.0	155		Sports Naked
+1593	 Benelli TRK 251	2019	Rs. 	450000.0	249		Touring
+1594	 Royal Enfield Classic 350	2023	Rs. 	450000.0	346		Cruiser
+1595	 Yamaha MT-15	2023	Rs. 	450000.0	155		Sports Naked
+1596	 Royal Enfield Hunter 350 Dapper	2023	Rs. 	450000.0	349		Cruiser
+1597	 Royal Enfield Bullet 350	2022	Rs. 	450000.0	346		Cruiser
+1598	 Royal Enfield Meteor 350	2021	Rs. 	450000.0	349		Cruiser
+1599	 Hero XPulse 200 4V	2024	Rs. 	450000.0	199		Dirt
+1600	 Royal Enfield Classic 350	2021	Rs. 	450000.0	346		Cruiser
+1601	 Yamaha R15 V4	2022	Rs. 	450000.0	155		Sports
+1602	 Royal Enfield Himalayan	2017	Rs. 	450000.0	411		Touring
+1603	 BMW G 310 R	2018	Rs. 	450000.0	313		Sports Naked
+1604	 Yamaha MT-15	2023	Rs. 	450000.0	155		Sports Naked
+1605	 Royal Enfield Hunter 350 Rebel	2023	Rs. 	450000.0	349		Cruiser
+1606	 Royal Enfield Classic 350	2021	Rs. 	450000.0	346		Cruiser
+1607	 KTM RC 200	2022	Rs. 	450000.0	200		Sports
+1608	 Yamaha XTZ 150	2020	Rs. 	450000.0	149		Dirt
+1609	 TVS Ronin	2024	Rs. 	450000.0	226		Cruiser
+1610	 Bajaj Dominar 250	2022	Rs. 	450000.0	249		Cruiser
+1611	 Crossfire HJ 250	2021	Rs. 	450000.0	250		Dirt
+1612	 KTM Duke 390	2018	Rs. 	450000.0	373		Sports Naked
+1613	 Hero XPulse 200 4V	2023	Rs. 	452500.0	199		Dirt
+1614	 Royal Enfield Classic 350	2021	Rs. 	455000.0	346		Cruiser
+1615	 Yamaha R15 V4	2022	Rs. 	455000.0	155		Sports
+1616	 Royal Enfield Bullet 350	2021	Rs. 	455000.0	346		Cruiser
+1617	 Yamaha R15 V4	2022	Rs. 	455000.0	155		Sports
+1618	 Royal Enfield Bullet 350	2021	Rs. 	455000.0	346		Cruiser
+1619	 KTM Duke 250	2020	Rs. 	460000.0	249		Sports Naked
+1620	 Royal Enfield Classic 350	2023	Rs. 	460000.0	346		Cruiser
+1621	 KTM Duke 250	2022	Rs. 	460000.0	249		Sports Naked
+1622	 Yamaha R15 V4	2023	Rs. 	460000.0	155		Sports
+1623	 Husqvarna Svartpilen 250	2020	Rs. 	460000.0	249		Scrambler
+1624	 Yamaha XTZ 150	2021	Rs. 	460000.0	149		Dirt
+1625	 KTM Duke 200	2023	Rs. 	460000.0	200		Sports Naked
+1626	 KTM Duke 200	2023	Rs. 	460000.0	200		Sports Naked
+1627	 KTM Duke 200	2023	Rs. 	460000.0	200		Sports Naked
+1628	 Royal Enfield Classic 350	2021	Rs. 	464000.0	346		Cruiser
+1629	 KTM Duke 200	2022	Rs. 	465000.0	200		Sports Naked
+1630	 Jawa Yezdi Classic	2021	Rs. 	465000.0	293		Cruiser
+1631	 Yamaha R15M	2022	Rs. 	465000.0	155		Sports
+1632	 Royal Enfield Classic 350	2023	Rs. 	470000.0	346		Cruiser
+1633	 Royal Enfield Bullet 350	2019	Rs. 	470000.0	346		Cruiser
+1634	 Royal Enfield Bullet 350	2023	Rs. 	470000.0	346		Cruiser
+1635	 Yamaha XTZ 150	2021	Rs. 	470000.0	149		Dirt
+1636	 KTM Duke 200	2022	Rs. 	475000.0	200		Sports Naked
+1637	 Royal Enfield Bullet 350	2023	Rs. 	475000.0	346		Cruiser
+1638	 Royal Enfield Hunter 350 Dapper	2024	Rs. 	479200.0	349		Cruiser
+1639	 Yamaha R15 V4	2023	Rs. 	480000.0	155		Sports
+1640	 Royal Enfield Bullet 350	2023	Rs. 	480000.0	346		Cruiser
+1641	 KTM Duke 250	2022	Rs. 	480000.0	249		Sports Naked
+1642	 Royal Enfield Classic 350	2021	Rs. 	480000.0	346		Cruiser
+1643	 Royal Enfield Hunter 350 Rebel	2024	Rs. 	483200.0	349		Cruiser
+1644	 Yamaha R15 V4	2022	Rs. 	485000.0	155		Sports
+1645	 Royal Enfield Classic 350	2021	Rs. 	490000.0	346		Cruiser
+1646	 KTM Duke 200	2023	Rs. 	490000.0	200		Sports Naked
+1647	 Crossfire HJ 250	2021	Rs. 	490000.0	250		Dirt
+1648	 KTM Duke 250	2021	Rs. 	490000.0	249		Sports Naked
+1649	 KTM RC 390	2017	Rs. 	490000.0	373		Sports
+1650	 Yamaha R15M	2023	Rs. 	490000.0	155		Sports
+1651	 KTM Duke 250	2021	Rs. 	490000.0	249		Sports Naked
+1652	 Royal Enfield Bullet 350	2023	Rs. 	490000.0	346		Cruiser
+1653	 Royal Enfield Classic 350	2024	Rs. 	490000.0	346		Cruiser
+1654	 Yamaha R15 V4	2022	Rs. 	490000.0	155		Sports
+1655	 Yamaha MT-15	2024	Rs. 	490000.0	155		Sports Naked
+1656	 KTM Duke 250	2021	Rs. 	495000.0	249		Sports Naked
+1657	 Honda CB Hornet 2.0	2023	Rs. 	498900.0	185		Sports Naked
+1658	 Crossfire RM 250	2020	Rs. 	499000.0	250		Dirt
+1659	 Jawa Yezdi Forty Two	2021	Rs. 	500000.0	293		Cruiser
+1660	 KTM Duke 250	2021	Rs. 	500000.0	249		Sports Naked
+1661	 Honda XR 190L	2020	Rs. 	500000.0	185		Dirt
+1662	 KTM Duke 250	2021	Rs. 	500000.0	249		Sports Naked
+1663	 Royal Enfield Bullet 350	2024	Rs. 	500000.0	346		Cruiser
+1664	 Royal Enfield Classic 350	2023	Rs. 	500000.0	346		Cruiser
+1665	 Royal Enfield Classic 350	2024	Rs. 	500000.0	346		Cruiser
+1666	 KTM Duke 200	2022	Rs. 	500000.0	200		Sports Naked
+1667	 Yamaha MT-15	2024	Rs. 	500000.0	155		Sports Naked
+1668	 Yamaha R15M	2023	Rs. 	500000.0	155		Sports
+1669	 Royal Enfield Bullet 350	2021	Rs. 	500000.0	346		Cruiser
+1670	 Royal Enfield Meteor 350	2022	Rs. 	500000.0	349		Cruiser
+1671	 KTM Duke 250	2022	Rs. 	500000.0	249		Sports Naked
+1672	 Royal Enfield Bullet 350	2023	Rs. 	500000.0	346		Cruiser
+1673	 Cross X 250R	2021	Rs. 	500000.0	250		Dirt
+1674	 Royal Enfield Classic 350	2024	Rs. 	500000.0	346		Cruiser
+1675	 Bajaj NS 400	2024	Rs. 	500000.0	373		Sports Naked
+1676	 Crossfire HJ 250	2022	Rs. 	505000.0	250		Dirt
+1677	 Yamaha R15M	2023	Rs. 	510000.0	155		Sports
+1678	 Royal Enfield Classic 350	2022	Rs. 	510000.0	346		Cruiser
+1679	 Yamaha MT-15	2023	Rs. 	514900.0	155		Sports Naked
+1680	 Royal Enfield Scram 411	2023	Rs. 	520000.0	411		Touring
+1681	 KTM Adventure 250	2023	Rs. 	520000.0	249		Touring
+1682	 Royal Enfield Classic 350	2024	Rs. 	520000.0	346		Cruiser
+1683	 Bajaj NS 400	2024	Rs. 	520000.0	373		Sports Naked
+1684	 Royal Enfield Classic 350	2024	Rs. 	524700.0	346		Cruiser
+1685	 KTM RC 200	2021	Rs. 	525000.0	200		Sports
+1686	 Honda CBR 250R	2019	Rs. 	525000.0	250		Sports
+1687	 KTM Duke 200	2024	Rs. 	530000.0	200		Sports Naked
+1688	 Royal Enfield Meteor 350	2021	Rs. 	530000.0	349		Cruiser
+1689	 Bajaj Dominar 250	2023	Rs. 	549900.0	249		Cruiser
+1690	 Royal Enfield Classic 350	2021	Rs. 	549999.0	346		Cruiser
+1691	 Royal Enfield Bullet 350	2021	Rs. 	549999.0	346		Cruiser
+1692	 Royal Enfield Classic 350	2021	Rs. 	549999.0	346		Cruiser
+1693	 Royal Enfield Bullet 350	2024	Rs. 	550000.0	346		Cruiser
+1694	 KTM Duke 200	2024	Rs. 	550000.0	200		Sports Naked
+1695	 Royal Enfield Bullet 350	2022	Rs. 	550000.0	346		Cruiser
+1696	 Royal Enfield Meteor 350	2024	Rs. 	555000.0	349		Cruiser
+1697	 Royal Enfield Classic 350	2024	Rs. 	555000.0	346		Cruiser
+1698	 KTM Duke 200	2021	Rs. 	560000.0	200		Sports Naked
+1699	 Cross X 250SE Motard	2018	Rs. 	560000.0	250		Dirt
+1700	 Royal Enfield Meteor 350	2024	Rs. 	560100.0	349		Cruiser
+1701	 Royal Enfield Classic 350	2024	Rs. 	560100.0	346		Cruiser
+1702	 KTM Duke 200	2023	Rs. 	564900.0	200		Sports Naked
+1703	 KTM Duke 200	2024	Rs. 	570000.0	200		Sports Naked
+1704	 Royal Enfield Meteor 350	2024	Rs. 	570200.0	349		Cruiser
+1705	 Crossfire HJ 250	2021	Rs. 	579999.0	250		Dirt
+1706	 Yamaha R15 V4	2023	Rs. 	580000.0	155		Sports
+1707	 Cross X 250R	2022	Rs. 	590000.0	250		Dirt
+1708	 Zontes ZT 155 U1	2023	Rs. 	599900.0	155		Commuter
+1709	 Bajaj Dominar 400	2023	Rs. 	599900.0	400		Sports
+1710	 Honda XR 190L	2023	Rs. 	600000.0	185		Dirt
+1711	 Honda XR 190L	2023	Rs. 	600000.0	185		Dirt
+1712	 Crossfire RM 250	2022	Rs. 	625000.0	250		Dirt
+1713	 Honda XR 150L	2023	Rs. 	649900.0	150		Dirt
+1714	 KTM Adventure 250	2023	Rs. 	650000.0	249		Touring
+1715	 KTM Adventure 250	2023	Rs. 	650000.0	249		Touring
+1716	 TVS Apache RR 310	2021	Rs. 	650000.0	313		Sports
+1717	 KTM RC 390	2021	Rs. 	650000.0	373		Sports
+1718	 BMW G 310 R	2022	Rs. 	650000.0	313		Sports Naked
+1719	 Royal Enfield Scram 411	2024	Rs. 	666500.0	411		Touring
+1720	 KTM Duke 250	2024	Rs. 	670000.0	249		Sports Naked
+1721	 Jawa Yezdi Forty Two	2021	Rs. 	673000.0	293		Cruiser
+1722	 Jawa Yezdi Forty Two	2021	Rs. 	673000.0	293		Cruiser
+1723	 KTM RC 200	2023	Rs. 	674900.0	200		Sports
+1724	 KTM Duke 250	2024	Rs. 	685000.0	249		Sports Naked
+1725	 Honda CB350 RS	2021	Rs. 	690000.0	349		Sports Naked
+1726	 Crossfire HJ 250	2023	Rs. 	699000.0	250		Dirt
+1727	 KTM Adventure 250	2022	Rs. 	700000.0	249		Touring
+1728	 KTM Adventure 250	2023	Rs. 	709900.0	249		Touring
+1729	 Benelli 302S	2021	Rs. 	715000.0	300		Sports Naked
+1730	 Honda CB350 RS	2021	Rs. 	725000.0	349		Sports Naked
+1731	 Benelli 302S	2021	Rs. 	730000.0	300		Sports Naked
+1732	 KTM Duke 390	2024	Rs. 	750000.0	373		Sports Naked
+1733	 BMW G 310 R	2019	Rs. 	765000.0	313		Sports Naked
+1734	 Honda XR 190L	2023	Rs. 	769900.0	185		Dirt
+1735	 KTM Duke 250	2023	Rs. 	784900.0	249		Sports Naked
+1736	 Crossfire RM 250	2023	Rs. 	799900.0	250		Dirt
+1737	 KTM Adventure 390	2021	Rs. 	800000.0	373		Touring
+1738	 Jawa Yezdi Perak	2021	Rs. 	820000.0	334		Cruiser
+1739	 KTM Duke 390	2024	Rs. 	850000.0	373		Sports Naked
+1740	 Zontes T310	2023	Rs. 	899900.0	312		Touring
+1741	 AIMA Mine Plus	2025	Rs. 	900000.0		3,000 	Scooter
+1742	 Jawa Yezdi Roadster	2023	Rs. 	925000.0	334		Cruiser
+1743	 KTM Duke 390	2023	Rs. 	930000.0	373		Sports Naked
+1744	 Benelli 302S	2022	Rs. 	950000.0	300		Sports Naked
+1745	 Benelli Leoncino 500	2017	Rs. 	950000.0	500		Scrambler
+1746	 Jawa Yezdi Scrambler	2023	Rs. 	956000.0	334		Scrambler
+1747	 Jawa Yezdi Adventure	2023	Rs. 	998000.0	334		Touring
+1748	 Zontes T350	2023	Rs. 	1099900.0	348		Touring
+1749	 Bajaj Pulsar NS 200	2016	Rs. 	1200000.0	200		Sports Naked
+1750	 Honda CRF250L	2019	Rs. 	1245000.0	249		Dirt
+1751	 Honda CRF250 Rally	2017	Rs. 	1325000.0	249		Dirt
+1752	 Suzuki GSXR 600 K4	2004	Rs. 	1500000.0	599		Sports
+1753	 Suzuki GSXR 600 K4	2022	Rs. 	2500000.0	599		Sports
+1754	 Honda CRF300 Rally	2021	Rs. 	2700000.0	286		Dirt
+1755	 Ducati Hypermotard 796	2023	Rs. 	2700000.0	803		Sports Naked
+1756	 Ducati Scrambler Icon	2020	Rs. 	2700000.0	803		Scrambler
