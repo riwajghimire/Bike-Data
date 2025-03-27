@@ -33,7 +33,7 @@ def scrape_bikes(url,l1):
                 else :
                         bike_distance = None
                         condition = None
-                bike_location = bike.find('p',class_ = 'text-sm text-gray-600 mt-2').text
+                
                 bike_cc =bike.find_next('li',class_="text-sm text-gray-600").text
                 if "watt" in bike_cc:
                       bike_power_watt = bike_cc.strip().strip("watt")
