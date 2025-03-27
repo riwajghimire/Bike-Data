@@ -21,18 +21,25 @@ def scrape_bikes(url,l1):
         bike_power_cc=""
         bike_power_watt=""
         for bike in bike_cc_container:
+                bike_travel_distance=bike.find_previous('li',class_="text-sm text-gray-600")
+                if bike_travel_distance:
+                      stored_text = bike_travel_distance.text.strip()
+                else :
+                      stored_text = None
+                if stored_text and 'km' in stored_text:
+                      bike_distance = stored_text
+                elif stored_text :
+                      condition = stored_text
+                else :
+                        bike_distance = None
+                        condition = None
+                bike_location = bike.find('p',class_ = 'text-sm text-gray-600 mt-2').text
                 bike_cc =bike.find_next('li',class_="text-sm text-gray-600").text
                 if "watt" in bike_cc:
                       bike_power_watt = bike_cc.strip().strip("watt")
                 elif "cc" in bike_cc:
-                      bike_power_cc = bike_cc.strip().strip("cc")
-
-        
-
-
-              
-              
-        print(bike_name,"|",currency,"|",bike_price,"|",bike_model_year,"|",bike_type,"|",bike_power_cc,"|",bike_power_watt)
+                      bike_power_cc = bike_cc.strip().strip("cc")             
+                print(bike_name,"|",currency,"|",bike_price,"|",bike_model_year,"|",bike_type,"|",bike_power_cc,"|",bike_power_watt,"|",bike_distance,"|",condition)
         dict = {
                 "Bike Name": bike_name,
                 "Bike Year" : bike_model_year,
@@ -40,13 +47,15 @@ def scrape_bikes(url,l1):
                 "Bike Currency" : currency,
                 "Bike Power CC":bike_power_cc,
                 "Bike Power Watt":bike_power_watt,
-                "Type Of Bike":bike_type
+                "Type Of Bike":bike_type,
+                "Bike Total Travel Distance":bike_distance,
+                "Condition Of Bike": condition
                     }
         
         l1.append(dict)
     return l1
 l1 = [] #global variable
-for i in range(1, 85):
+for i in range(1, 86):
     URL = f"https://www.bikebazarnepal.com/bikes?page={i}&sortBy=price"
     scrape_bikes(URL,l1)
     with open("bikes.json", "w") as f:
